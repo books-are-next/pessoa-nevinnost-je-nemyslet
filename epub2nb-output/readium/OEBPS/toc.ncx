@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Nevinnost je nemyslet</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva Ricarda Reise</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_007.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Úvod</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_008.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>HLÍDAČ STÁD</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_009.xhtml#_idParaDest-3"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_010.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_011.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_012.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_013.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_014.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_015.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>VII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_016.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>VIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_017.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>IX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_018.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>X.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_019.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_020.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_021.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_022.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XIV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_023.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_024.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_025.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XVII. Salát</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_026.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XVIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_027.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XIX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_028.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_029.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_030.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XXII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_031.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XXIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_032.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>XXIV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_033.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XXV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_034.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XXVI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_035.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXVII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_036.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXVIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_037.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>XXIX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_038.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>XXX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_039.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>XXXI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_040.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>XXXII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_041.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>XXXIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_042.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>XXXIV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_043.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>XXXV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_044.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>XXXVI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_045.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>XXXVII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_046.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>XXXVIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_047.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>XXXIX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_048.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>XL.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_049.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>XLI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_050.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>XLII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_051.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>XLIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_052.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>XLIV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_053.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>XLV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_054.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>XLVI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_055.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>XLVII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_056.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>XLVIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_057.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>XLIX.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_058.xhtml#_idParaDest-52"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>ZAMILOVANÝ PASTÝŘ</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_059.xhtml#_idParaDest-53"/>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_060.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>II.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_061.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>III.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_062.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>IV.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_063.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>V.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_064.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>VI.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_065.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>VII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_066.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>VIII.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_067.xhtml#_idParaDest-61"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>ROZPTÝLENÉ BÁSNĚ</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_068.xhtml#_idParaDest-62"/>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Nestačí otevřít okno</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_069.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Mluvíš o civilizaci a že by neměla být</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_070.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Mezi tím, co vidím z jedné a z druhé strany krajiny</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_071.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Špinavé cizí dítě hrající si u mých dveří</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_072.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Pravda, lež, jistota, nejistota…</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_073.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Hlasitý dívčí smích se ozývá odněkud z cesty.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_074.xhtml#_idParaDest-68"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Svatojánská noc kdesi za zdí mého dvorku.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_075.xhtml#_idParaDest-69"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Včera zase ten hlasatel svých pravd</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_076.xhtml#_idParaDest-70"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Ty, mystiku, vidíš význam ve všech věcech.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_077.xhtml#_idParaDest-71"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Pastýři na kopci, tak daleko ode mě se svými ovcemi —</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_078.xhtml#_idParaDest-72"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Říkáš mi: ty jsi něco víc</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_079.xhtml#_idParaDest-73"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Úžasná realita věcí</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_080.xhtml#_idParaDest-74"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Až se znovu navrátí jaro</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_081.xhtml#_idParaDest-75"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Zemřu-li mlád</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_082.xhtml#_idParaDest-76"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Až přijde jaro</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_083.xhtml#_idParaDest-77"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Jestliže až zemřu, budete chtít napsat můj životopis</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_084.xhtml#_idParaDest-78"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Kdesi za zatáčkou cesty</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_085.xhtml#_idParaDest-79"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Nevím, jak se západ slunce může zdát smutný.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_086.xhtml#_idParaDest-80"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Deštivý den je stejně krásný jako den plný slunce.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_087.xhtml#_idParaDest-81"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Až na mém hrobě vyroste tráva</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_088.xhtml#_idParaDest-82"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Je noc. A je velice temná. Ve vzdáleném domě</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_089.xhtml#_idParaDest-83"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Dnes mi kdosi četl svatého Františka z Assisi.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_090.xhtml#_idParaDest-84"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Chtěl bych mít tolik času a klidu</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_091.xhtml#_idParaDest-85"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Snáší se noc, horko polevuje.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_092.xhtml#_idParaDest-86"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Jsem nemocný. Myšlenky se mi začínají plést.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_093.xhtml#_idParaDest-87"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Přijmi vesmír</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_094.xhtml#_idParaDest-88"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Je-li v zimním období zima, beru to jako něco příjemného</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_095.xhtml#_idParaDest-89"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Ať už je středem světa cokoli</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_096.xhtml#_idParaDest-90"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Je mi to jedno.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_097.xhtml#_idParaDest-91"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Válka, jež svými vojsky sužuje svět</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_098.xhtml#_idParaDest-92"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Ze všemožných názorů o přírodě</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_099.xhtml#_idParaDest-93"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Lodi, jež odplouváš do dáli</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_100.xhtml#_idParaDest-94"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Ponenáhlu šíří se krajina a zlátne.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_101.xhtml#_idParaDest-95"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Poslední hvězdo mizící před svítáním</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_102.xhtml#_idParaDest-96"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Kdosi slyšel mé verše a řekl: co je na tom nového?</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_103.xhtml#_idParaDest-97"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Ano: existuji uvnitř svého těla.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_104.xhtml#_idParaDest-98"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Zeleň modrého nebe, dřív než vyjde slunce</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_105.xhtml#_idParaDest-99"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Jako dítě, dřív než je druzí naučí být velké</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_106.xhtml#_idParaDest-100"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Nevím, co je to znát se. Nevidím dovnitř</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_107.xhtml#_idParaDest-101"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Vlastenec? Ne: jen Portugalec.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_108.xhtml#_idParaDest-102"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Natáhnu se do trávy</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_109.xhtml#_idParaDest-103"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Promlouvali ke mně o lidech, o lidstvu</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_110.xhtml#_idParaDest-104"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Nikdy jsem se nesnažil žít svůj život.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_111.xhtml#_idParaDest-105"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Žij, pravíš, v přítomnosti</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_112.xhtml#_idParaDest-106"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Prý v každé věci dlí nějaká skrytá věc.</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_113.xhtml#_idParaDest-107"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Sníh položil na vše tichou pokrývku</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_114.xhtml#_idParaDest-108"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Dnes ráno jsem si vyšel časně</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_115.xhtml#_idParaDest-109"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>První předzvěst pozítřejší bouřky</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_116.xhtml#_idParaDest-110"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Předposlední báseň</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_117.xhtml#_idParaDest-111"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>(Nadiktováno básníkem v den jeho smrti)</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_118.xhtml#_idParaDest-112"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>Álvaro de Campos Poznámky na paměť mého mistra Caeira</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_119.xhtml#_idParaDest-113"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>DOKUMENTY</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_120.xhtml#_idParaDest-114"/>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Pessoův dopis Armandu Cortes-Rodriguesovi</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_121.xhtml#_idParaDest-115"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Pessoův dopis Adolfu Casaisu Monteirovi</text>
+        </navLabel>
+        <content src="Text/nevinnost_je_nemyslet_122.xhtml#_idParaDest-116"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>Květinové dítě Alberto Caeiro?</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_123.xhtml#_idParaDest-117"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>Poznámka</text>
+      </navLabel>
+      <content src="Text/nevinnost_je_nemyslet_124.xhtml#_idParaDest-118"/>
+    </navPoint>
+  </navMap>
+</ncx>
