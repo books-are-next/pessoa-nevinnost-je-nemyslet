@@ -5,8 +5,8 @@ contentType: prose
 
 Zeleň modrého nebe, dřív než vyjde slunce,
 
-> a bílá modř západu, kde zář slunce vymizela.
+_a bílá modř západu, kde zář slunce vymizela._
 
-> Opravdové barvy věcí, jak je vidí oči —  
-> měsíčno nikoli bílé, jen lehce modravě šedé. Těší mě vidět očima,  
-> a ne přečtenými stránkami.
+_Opravdové barvy věcí, jak je vidí oči —  
+měsíčno nikoli bílé, jen lehce modravě šedé. Těší mě vidět očima,  
+a ne přečtenými stránkami._

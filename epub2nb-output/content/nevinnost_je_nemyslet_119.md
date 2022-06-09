@@ -3,8 +3,6 @@ title: Álvaro de Campos Poznámky na paměť mého mistra Caeira
 contentType: prose
 ---
 
-  
-
 Svého mistra Caeira jsem poznal za zvláštních okolností – zvláštní jsou ostatně všechny životní okolnosti, především ty, které nejsouce ničím samy o sobě, stanou se vším svými důsledky.
 
 Nechal jsem studia námořního inženýrství ve Skotsku, když jsem byl téměř ze tří čtvrtin hotov, a odcestoval jsem na Východ; na zpáteční cestě jsem v Marseille vystoupil na pevninu, a protože mě omrzelo plavit se dál, odjel jsem po souši do Lisabonu. Bratranec mě jednou vzal na výlet do Ribateja; znal tam Caeirova bratrance, s nímž byl v obchodním spojení; a právě u něho jsem se seznámil s mužem, který se měl stát mým mistrem. Nevím, co bych o tom pověděl víc, protože je to krátké jako každé oplodnění.
@@ -19,9 +17,9 @@ Tato věta, kterou vyslovil tak, jako by to byl axiom země, mě uchvátila s o
 
 Když jsem jednou mluvil o přímém chápání věcí, které je charakteristické pro Caierovu senzibilitu, citoval jsem mu v přátelské zlomyslnosti slova, jimiž Wordsworth označuje necitlivého člověka:
 
-A primrose by the river’s brim  
+_A primrose by the river’s brim  
 A yellow primrose was to him,  
-And it was nothing more.
+And it was nothing more._
 
 A přeložil jsem to (přičemž jsem se vyhnul přesnému překladu _primrose_, protože neznám jména květin a rostlin): „Květ na břehu řeky byl pro něj žlutým květem a ničím víc.“
 

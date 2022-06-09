@@ -3,8 +3,6 @@ title: Předmluva Ricarda Reise
 contentType: prose
 ---
 
-  
-
 Alberto Caeiro da Silva se narodil v Lisabonu (…)[1](./resources/undefined) dubna 1889 a v tomto městě zemřel na tuberkulózu (…) 1915. Takřka celý život však strávil na jedné usedlosti v Ribateju; jenom první dva roky – a pak poslední měsíce – prožil v rodném městě. Na odlehlé usedlosti, patřící k blízké vesnici, kterou z citových důvodů považoval za svůj domov, napsal téměř všechny své básně – ty první, jež označil za „dětské“, pak básně z knihy nazvané _Hlídač stád_ a z neúplné sbírky (nebo ať se tomu říká jakkoli) _Zamilovaný pastýř_, a konečně několik prvních básní, jež jsem společně se všemi ostatními z pozůstalosti shrnul podle návrhu Álvara de Campos pod titul _Rozptýlené básně_. Poslední básně, počínaje tou, jež nese číslo (…), však už pocházejí ze závěrečného období autorova života, opět stráveného v Lisabonu. Považuji za svou povinnost upozornit na tento rozdíl, poněvadž některé z posledních básní, napsané v tíživých dnech nemoci, se poněkud zvláštním způsobem vymykají z celkového charakteru díla, a to jak povahou, tak zaměřením.
 
 O Caeirově životě se nedá vyprávět, protože v něm nic k vyprávění není. Jeho básně jsou to, co prožil. Jinak tu neexistují žádné události ani příběh. Ba ani ona krátká, marná a absurdní epizoda, jež vedla ke vzniku (…) básní ze _Zamilovaného pastýře_, nebyla událostí, ale básník se tu spíše – dalo by se říci – zapomněl.
@@ -21,13 +19,13 @@ Odevzdávám dílo, jehož vydání mi bylo svěřeno, osudové náhodě světa.
 
 Radujte se všichni, kdož pláčete v největší z chorob historie! Znovuzrodil se Velký Pan!
 
-Celé toto dílo je na přání autora  
-věnováno památce Cesária Verdeho[3](./resources/undefined)
+_Celé toto dílo je na přání autora  
+věnováno památce Cesária Verdeho[3](./resources/undefined)_
 
 * * *
 
-[1](./resources/undefined) Z faksimile horoskopu je zřejmé, že Alberto Caeiro se měl narodit 16. dubna 1889. Pozn. překl.
+_[1](./resources/undefined) Z faksimile horoskopu je zřejmé, že Alberto Caeiro se měl narodit 16. dubna 1889. _Pozn. p__řekl.__
 
-[2](./resources/undefined) V originále sensações. Pozn. překl.
+_[2](./resources/undefined) V originále sensações. _Pozn. překl.__
 
-[3](./resources/undefined) Cesário Verde (1855–1886), portugalský básník; posmrtně vyšla Kniha Cesária Verdeho. Pozn. překl.
+_[3](./resources/undefined) Cesário Verde (1855–1886), portugalský básník; posmrtně vyšla _Kniha Cesária Verdeho_. _Pozn. překl.__
