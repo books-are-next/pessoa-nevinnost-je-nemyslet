@@ -11,21 +11,13 @@ Z poezie Alberta Caeira uveřejnil Fernando Pessoa za svého života časopisec
 
 VIII. báseň z _Hlídače stád_ a „Předposlední báseň“ (Presença, č. 30 a 31–32/1931).
 
-_P. L._
-
-  
+> _P. L._
 
 Značení v textu:
 
-  
-
 (…) nečitelné nebo neúplné
 
-  
-
 / / předpokládaný heteronymní autor
-
-  
 
 \[…\] nejisté čtení rukopisu
 
@@ -39,8 +31,6 @@ Fernando Pessoa: _Poemas Completos de Alberto Caeiro_. Ed. Teresa Sobral Cunha. 
 
 Fernando Pessoa: _Alberto Caeiro: Poesias_. Ed. Fernando Cabral Martins, Richard Zenith. Assírio & Alvim, Lisabon 2001
 
-  
-
 _Knižní předloha našeho vydání obsahuje obrazový materiál, především pak faksimile rukopisu_ Hlídače stád.
 
-_Redakce MKP_
+> _Redakce MKP_

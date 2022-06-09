@@ -1,14 +1,12 @@
 ---
-title: ''
+title: XII\.
 contentType: prose
 ---
 
-XII.
+_Vergiliovi pastýři hráli na šalmaj a podobné věci  
+a o lásce pěli literárně  
+(prý — já nikdy Vergilia nečetl.  
+Proč vlastně bych ho měl číst?)_
 
-> Vergiliovi pastýři hráli na šalmaj a podobné věci  
-> a o lásce pěli literárně  
-> (prý — já nikdy Vergilia nečetl.  
-> Proč vlastně bych ho měl číst?)
-
-> Ale chudáci Vergiliovi pastýři jsou Vergilius,  
-> zato příroda je krásná a dávná.
+_Ale chudáci Vergiliovi pastýři jsou Vergilius,  
+zato příroda je krásná a dávná._

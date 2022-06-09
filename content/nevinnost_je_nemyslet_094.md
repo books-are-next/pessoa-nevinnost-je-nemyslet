@@ -5,9 +5,9 @@ contentType: prose
 
 Přijmi vesmír,
 
-> jak ti jej dali bohové.  
-> Kdyby ti bohové chtěli dát jiný,  
-> byli by ti ho dali.
+_jak ti jej dali bohové.  
+Kdyby ti bohové chtěli dát jiný,  
+byli by ti ho dali._
 
-> Jsou-li jiné hmoty a jiné světy —  
-> ať jsou.
+_Jsou-li jiné hmoty a jiné světy —  
+ať jsou._

@@ -3,13 +3,9 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-Caiero byl anděl strážný, jehož básník vzýval,  
+_Caiero byl anděl strážný, jehož básník vzýval,  
 aby se zbavil šílenství — Fausta,  
-šílenství poznat absolutno.
+šílenství poznat absolutno._
 
-Eduardo Lourenço:  
-Poesia e filosofia em Pessoa
+_Eduardo Lourenço:  
+Poesia e filosofia em Pessoa_

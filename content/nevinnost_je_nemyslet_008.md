@@ -3,7 +3,7 @@ title: Úvod
 contentType: prose
 ---
 
-(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydání básní Alberta Caeira.)[4](./resources/undefined)
+_(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydání básní Alberta Caeira.)[4](./resources/undefined)_
 
 Na první pohled se zdá, že v těchto básních je něco z Whitmana. O Caeirových znalostech cizích jazyků, zvláště angličtiny, a Whitmanova díla nemám informace; všeobecně a po zběžném přečtení jeho básní však tuším, že v prvním případě byly tyto znalosti přinejlepším značně omezené a v druhém a třetím případě – žádné. Ať už je tomu jakkoli, po důkladném zkoumání tu Whitmanův vliv opravdu neodhalíme. Shledáme nanejvýš náhodnou shodu v určitém tónu, a proto spíše zdánlivou než skutečnou. Podstatný rozdíl je obrovský.
 
@@ -27,6 +27,6 @@ Náš první dojem z Caeira je ten, že všichni vědí, co nám říká, a pr
 
 * * *
 
-[4](./resources/undefined) Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním Thomasem Crossem, rovněž předpokládaným autorem těchto textů. In: Páginas Íntimas e de Auto-Interpretação. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl.
+_[4](./resources/undefined) Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním **Thomasem Crossem**, rovněž předpokládaným autorem těchto textů. In: _Páginas Ínt__imas e de Auto-Interpretação_. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl._
 
-[5](./resources/undefined) V originále sensation. Pozn. překl.
+_[5](./resources/undefined) V originále _sensation_. _Pozn. překl.__
