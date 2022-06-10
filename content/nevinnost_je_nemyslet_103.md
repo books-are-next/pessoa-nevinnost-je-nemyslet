@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Kdosi slyšel mé verše a řekl: co je na tom nového?
 
 _Všichni vědí, že květ je květ a strom je strom.  
@@ -11,3 +13,5 @@ Protože všichni milují květy, že jsou krásné, a já jsem jiný.
 A všichni milují stromy, že jsou zcela zelené a stinné, ale já ne.  
 Miluji květy, že jsou květy, přímo.  
 Miluji stromy, že jsou stromy, bez mého myšlení._
+
+</section>

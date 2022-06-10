@@ -3,6 +3,8 @@ title: XXI\.
 contentType: prose
 ---
 
+<section>
+
 _Kdybych mohl rozkousat celou zemi  
 a pocítit, jak chutná,  
 a kdyby země byla něčím ke kousání,  
@@ -17,6 +19,10 @@ přirozeně, stejně jako se nedivíme,
 že jsou hory a roviny  
 a že jsou skály a tráva…_
 
+</section>
+
+<section>
+
 _Jen musíme být přirození a klidní  
 ve štěstí i v neštěstí,  
 cítit, jako bychom se dívali,  
@@ -24,3 +30,5 @@ myslet, jako bychom kráčeli,
 a máme-li umřít, pak si vzpomenout, že umírá den  
 a že západ slunce je krásný a krásná je noc, jež nastává…  
 Tak to je a být má…_
+
+</section>

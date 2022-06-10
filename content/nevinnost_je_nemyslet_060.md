@@ -3,6 +3,8 @@ title: I\.
 contentType: prose
 ---
 
+<section>
+
 _Když jsem tě neměl,  
 miloval jsem přírodu jako klidný mnich Krista…  
 Nyní miluji přírodu  
@@ -22,6 +24,12 @@ proto, že sis mě zvolila, abych tě měl a miloval,
 moje oči se na tom všem  
 pozdržely déle._
 
+</section>
+
+<section>
+
 _Nelituji toho, čím jsem býval dřív,  
 protože tím stále jsem.  
 Jenom lituji, že jsem tě dřív nemiloval._
+
+</section>

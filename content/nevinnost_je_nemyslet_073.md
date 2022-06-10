@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Pravda, lež, jistota, nejistota…
 
 _I slepec tam na cestě tahle slova zná.  
@@ -17,3 +19,5 @@ Jaká věda o tom něco ví?
 Slepec jde dál svou cestou a já už se nehýbám.  
 Není již táž chvíle ani titíž lidé, nic není stejné.  
 Tohle je být reálný._
+
+</section>

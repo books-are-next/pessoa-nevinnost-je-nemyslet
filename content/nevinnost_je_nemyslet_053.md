@@ -3,6 +3,8 @@ title: XLIV\.
 contentType: prose
 ---
 
+<section>
+
 _V noci najednou procitnu  
 a moje hodiny zaujmou prostor noci.  
 Nevnímám přírodu zvenku.  
@@ -18,3 +20,5 @@ když svou malostí zaplňují nezměrnou noc,
 je divný pocit, že zaplní nezměrnou noc,  
 a ten pocit je divný, protože tu noc nezaplní  
 svou malostí._
+
+</section>

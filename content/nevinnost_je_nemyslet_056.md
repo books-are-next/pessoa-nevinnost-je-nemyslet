@@ -3,12 +3,18 @@ title: XLVII\.
 contentType: prose
 ---
 
+<section>
+
 _V jeden přespříliš jasný den,  
 v den, kdy by člověk chtěl být tak upracovaný,  
 aby nepracoval vůbec,  
 jsem jako cestu mezi stromy zahlédl,  
 co možná je to Veliké tajemství,  
 ono Velké mysterium, o němž mluví falešní básníci._
+
+</section>
+
+<section>
 
 _Viděl jsem, že není příroda,  
 že příroda neexistuje,  
@@ -19,10 +25,20 @@ ale že není celek, k němuž by to patřilo,
 že nějaký skutečný, opravdový souhrn  
 je naše chorobná představa._
 
+</section>
+
+<section>
+
 _Příroda jsou části bez celku.  
 Takové snad je tajemství, o němž se mluví._
+
+</section>
+
+<section>
 
 _A to se mi bez úvah či váhání  
 zdálo být tou pravdou,  
 již všichni hledají a nenalézají,  
 a jenom já bez hledání našel._
+
+</section>

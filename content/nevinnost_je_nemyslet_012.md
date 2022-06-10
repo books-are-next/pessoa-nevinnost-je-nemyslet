@@ -3,10 +3,16 @@ title: III\.
 contentType: prose
 ---
 
+<section>
+
 _Vykloněn k večeru z okna  
 a vědom si úkosem luk před sebou  
 čtu, až mě z toho pálí oči,  
 Knihu Cesária Verdeho._
+
+</section>
+
+<section>
 
 _Je mi ho tolik líto! Byl to venkovan  
 vězněný na svobodě městem.  
@@ -17,8 +23,14 @@ tak jako hledíme na stromy
 a zrakem sledujeme cestu, jíž se jde,  
 a všímáme si na lukách květin…_
 
+</section>
+
+<section>
+
 _Proto jej tížil ten veliký smutek,  
 jejž vlastně nikdy nedal znát,  
 ale chodil městem, jako se nechodí po louce,  
 a smutný, jako když květy se lisují v knihách  
 a rostliny vkládají do vázy…_
+
+</section>

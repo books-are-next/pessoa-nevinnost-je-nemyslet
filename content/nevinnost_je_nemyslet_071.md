@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Mezi tím, co vidím z jedné a z druhé strany krajiny,
 
 _prochází na okamžik postava muže.  
@@ -14,3 +16,5 @@ Pozoruji ho zdálky bez jakéhokoli názoru.
 Jak dokonalé je v něm to, co je on — jeho tělo,  
 jeho opravdová realita, jež nemá touhy ani naděje,  
 má však svaly a správný neosobní způsob, jak je používat._
+
+</section>

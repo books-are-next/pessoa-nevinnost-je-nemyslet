@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Je noc. A je velice temná. Ve vzdáleném domě
 
 _září v okně světlo.  
@@ -22,3 +24,5 @@ Já jsem na téhle straně, hodně daleko.
 Světlo zhaslo.  
 Co je mi po tom, že ten člověk existuje dál?  
 Je to jen on, kdo existuje dál._
+
+</section>

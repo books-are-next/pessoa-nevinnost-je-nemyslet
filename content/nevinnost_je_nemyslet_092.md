@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Snáší se noc, horko polevuje.
 
 _Hlavu mám jasnou, jako bych nikdy nemyslel  
@@ -12,3 +14,5 @@ zrak, jímž se odděluji od věcí
 a blížím se hvězdám a věcem vzdáleným —  
 bloudím: neboť vzdálené není blízké  
 a přiblížením se klamu._
+
+</section>

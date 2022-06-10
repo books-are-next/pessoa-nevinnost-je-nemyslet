@@ -3,6 +3,8 @@ title: VII\.
 contentType: prose
 ---
 
+<section>
+
 _Možná kdo umí vidět, nedokáže cítit  
 a nezalíbí se, neboť v mnohém předchází mravy.  
 Ke všemu je třeba znát způsoby  
@@ -19,9 +21,15 @@ a v zlatém slunci schnou kapky slz, jimž se nevyhnu.
 Jak veliká jsou luka a jak malá láska!  
 Dívám se a zapomínám, jako svět pohřbívá a stromy shazují listí._
 
+</section>
+
+<section>
+
 _Neumím mluvit, protože teď cítím.  
 Poslouchám svůj hlas, jako by patřil jinému,  
 a můj hlas mluví o ní, jako by to mluvila ona.  
 Její vlasy jsou žloutnoucím obilím v jasném slunci,  
 a když mluví její ústa, říkají, co není ve slovech.  
 Usměje se a zuby jsou čisté jak oblázky v řece._
+
+</section>

@@ -3,6 +3,8 @@ title: Pessoův dopis Armandu Cortes-Rodriguesovi
 contentType: prose
 ---
 
+<section>
+
 > _Lisabon 19. ledna 1915_
 
 > Můj drahý příteli,
@@ -51,3 +53,5 @@ _[6](./resources/undefined) Fr.: oslnit, ohromit. _Pozn. překl.__
 _[7](./resources/undefined) Fr.: vtip, žert. _Pozn. překl.__
 
 _[8](./resources/undefined) Fernando Pessoa: _Cartas a Armando Cortes-Rodrigues_, Livros Horizonte, Lisabon 1985, str. 43–48._
+
+</section>

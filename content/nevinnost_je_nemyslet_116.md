@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 První předzvěst pozítřejší bouřky,
 
 _první bílá oblaka nízko plující po matné obloze.  
@@ -23,3 +25,5 @@ nebudu-li však na světě, svět bude jiný —
 já budu chybět —  
 a ta bouřka se strhne v jiném světě a nebude stejná.  
 Ať tak či onak, strhne se ta, která se strhne, až se strhne._
+
+</section>

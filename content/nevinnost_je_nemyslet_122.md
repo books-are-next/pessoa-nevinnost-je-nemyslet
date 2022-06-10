@@ -3,6 +3,8 @@ title: Pessoův dopis Adolfu Casaisu Monteirovi
 contentType: prose
 ---
 
+<section>
+
 > Poštovní přihrádka 147  
 > _Lisabon 13. ledna 1935_
 
@@ -83,3 +85,5 @@ contentType: prose
 _[9](./resources/undefined) Zmíněnou část dopisu od slov „Zbývá odpovědět…“ až po „… se citovat (s označením řádu) nemají“, která za Pessoova života otištěna nebyla, poprvé uveřejnil se svolením Adolfa Casaise Monteira João Gaspar Simões ve své knize _Vida e Obra de Fernando Pessoa_ (b. d. 1950). _Pozn. překl.__
 
 _[10](./resources/undefined) Fernando Pessoa: _Correspondência_ (1923–1935), Assírio & Alvim, Lisa­bon 1999, str. 337–348._
+
+</section>

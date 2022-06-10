@@ -3,12 +3,18 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ať už je středem světa cokoli,
 
 _dalo mi to vnější svět jako vzor reality,  
 a řeknu-li „to je reálné“, byť o citu,  
 vidím to bezděky v nějakém vnějším prostoru,  
 vidím to jaksi stranou a jako sobě cizí._
+
+</section>
+
+<section>
 
 _Být reálný znamená nebýt uvnitř sebe.  
 O své osobě vevnitř nemám představu reality.  
@@ -23,6 +29,10 @@ může si sednout a stát,
 ale má duše může být definována jen vnějšími výrazy.  
 Existuje pro mne — ve chvílích, kdy soudím, že opravdu existuje —  
 jakousi půjčkou od vnější reality světa._
+
+</section>
+
+<section>
 
 _Je-li duše reálnější  
 než vnější svět, jak pravíš ty, filozofe,  
@@ -40,7 +50,15 @@ Je-li svět omyl, je omylem všech lidí.
 A každý z nás je pouze omyl každého z nás.  
 Tak či onak, svět je jistější._
 
+</section>
+
+<section>
+
 _Proč však se sám sebe ptám, ne-li proto, že stůňu?_
+
+</section>
+
+<section>
 
 _Ve správných dnech, ve vnějších dnech svého života,  
 ve svých dnech dokonale přirozené jasnozřivosti,  
@@ -50,9 +68,17 @@ a nikdy není vesmír tak reálný,
 nikdy nebývá vesmír (nikoli blízko či daleko ode mě,  
 ale) tak vznešeně ne-můj._
 
+</section>
+
+<section>
+
 _Když řeknu „to je zřejmé“, chci snad říct „jen já to zřím“?  
 Když řeknu „to je pravda“, chci snad říct „to je můj názor“?  
 Když řeknu „tam to je“, chci snad říct „není to tam“?_
+
+</section>
+
+<section>
 
 _A je-li to tak v životě, proč to má být jinak ve filozofii?  
 Dřív žijeme, než filozofujeme, dřív existujeme, než to víme,  
@@ -60,7 +86,13 @@ a ten první fakt si zaslouží přinejmenším přednost uznání.
 Ano, dříve než jsme vnitřek, jsme vnějšek.  
 Proto jsme esenciálně vnějšek._
 
+</section>
+
+<section>
+
 _Pravíš, chorý filozofe, zkrátka filozofe, že to je materialismus.  
 Jak to ale může být materialismus, je-li materialismus filozofie  
 a nějaká filozofie, přinejmenším jakožto moje, by byla mou filozofií,  
 a to ani není moje, ba ani nejsem já?_
+
+</section>

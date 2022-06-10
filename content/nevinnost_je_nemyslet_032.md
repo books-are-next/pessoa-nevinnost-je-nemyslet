@@ -3,14 +3,24 @@ title: XXIII\.
 contentType: prose
 ---
 
+<section>
+
 _Můj pohled modrý jako nebe  
 je klidný jako voda na slunci.  
 Je tak modrý a klidný,  
 protože se neptá ani nediví…_
 
+</section>
+
+<section>
+
 _Kdybych se ptal a divil se,  
 nevyrostly by nové květy na lukách  
 ani slunce by se nestalo krásnějším._
+
+</section>
+
+<section>
 
 _(A i kdyby vyrostly na louce nové květy  
 a slunce se stalo krásnějším,  
@@ -19,3 +29,5 @@ a shledával slunce ošklivějším…
 Protože všechno je, jak je, a tak to je,  
 a já to přijímám bez díků,  
 aby mi nepřišlo, že na to myslím…)_
+
+</section>

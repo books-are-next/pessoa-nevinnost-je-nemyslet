@@ -3,6 +3,8 @@ title: Předposlední báseň
 contentType: prose
 ---
 
+<section>
+
 > _Ricardu Reisovi_
 
 _I já se umím domýšlet.  
@@ -18,3 +20,5 @@ Proto bohové nemají tělo a duši,
 ale jen tělo a jsou dokonalí.  
 Právě tělo je jim duší  
 a mají vědomí ve vlastním božském těle._
+
+</section>

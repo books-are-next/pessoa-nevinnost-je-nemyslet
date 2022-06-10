@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Nestačí otevřít okno,
 
 _abychom viděli louky a řeku.  
@@ -14,3 +16,5 @@ Je jenom jeden každý z nás, jako sklep.
 Je jenom jedno zavřené okno, a všichni ostatní venku;  
 a sen, co by se mohlo vidět, kdyby se okno otevřelo,  
 což nikdy není to, co je vidět, když se okno otevře._
+
+</section>

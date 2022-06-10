@@ -3,15 +3,25 @@ title: VIII\.
 contentType: prose
 ---
 
+<section>
+
 _Jednou za poledne na sklonku jara  
 zdál se mi sen jako z fotografie.  
 Viděl jsem Ježíše Krista sestoupit na zem._
+
+</section>
+
+<section>
 
 _Blížil se ze svahu dolů  
 a stal se znova dítětem,  
 běhal a válel se v trávě  
 a rval kytky a hned je zahazoval  
 a chechtal se na celé kolo._
+
+</section>
+
+<section>
 
 _Utekl z nebe.  
 Patřil příliš k nám, než aby se tvářil  
@@ -40,6 +50,10 @@ A chtěli, aby on, co se narodil jen z matky
 a nikdy neměl otce, jehož by s úctou miloval,  
 kázal dobrotu a spravedlnost!_
 
+</section>
+
+<section>
+
 _Jednou když Pánbůh spal  
 a Duch svatý kdesi lítal,  
 ze skříňky zázraků ukradl hned tři:  
@@ -50,6 +64,10 @@ přibitého na kříži, který je v nebi
 a slouží za vzor všem ostatním.  
 Pak se rozběhl ke slunci  
 a sklouzl dolů po prvním paprsku, jehož se chytil._
+
+</section>
+
+<section>
 
 _Dnes žije se mnou na vesnici.  
 Je to hezké, usměvavé a přirozené dítě.  
@@ -66,6 +84,10 @@ co chodí v hloučcích po cestě
 s džbánem na hlavě,  
 a nadzvedává jim sukně._
 
+</section>
+
+<section>
+
 _Mne naučil všemu.  
 Naučil mě dívat se na věci.  
 Předvádí mi vše, co je na květech.  
@@ -73,7 +95,15 @@ Ukazuje mi, jak pěkné jsou kameny,
 když je člověk drží v ruce  
 a pomalu si je prohlíží._
 
+</section>
+
+<section>
+
 _Pánaboha hrozně pomlouvá._
+
+</section>
+
+<section>
 
 _Říká, že je to hloupý a stonavý dědek,  
 co v jednom kuse plivá na zem  
@@ -91,6 +121,10 @@ kdyby pěly, byly by pěvci.
 Bytosti existují a nic víc,  
 a proto se jmenují bytosti.“_
 
+</section>
+
+<section>
+
 _A když Ježíška pomlouvání Boha zmůže,  
 usne mi v náručí  
 a já ho odnesu domů.  
@@ -102,6 +136,10 @@ je to někdo božský, kdo se usmívá a hraje si.
 A proto vím docela jistě,  
 že je to opravdový Ježíšek._
 
+</section>
+
+<section>
+
 _A tohle dítě tak lidské, že je božské,  
 je můj každodenní život básníka,  
 a právě proto, že se mnou pořád chodí, jsem pořád básník,  
@@ -109,6 +147,10 @@ a každý i letmý pohled
 naplno procítím  
 a i sebeslabší zvuk, ať jakýkoli,  
 jako by se mnou rozmlouval._
+
+</section>
+
+<section>
 
 _To nové dítě, jež přebývá tam, kde žiju,  
 podává jednu ruku mně  
@@ -120,10 +162,18 @@ a radujeme se ze společného tajemství,
 že na světě žádné tajemství není  
 a že všecko stojí za to._
 
+</section>
+
+<section>
+
 _To věčné dítě mě nikdy neopouští.  
 Směr jeho pohledu je jeho napřažený prst.  
 Všemožným zvukům vesele naslouchám,  
 když mě žertem šimrá za ušima._
+
+</section>
+
+<section>
 
 _Vycházíme jeden s druhým tak dobře  
 ve společnosti všeho,  
@@ -132,6 +182,10 @@ ale žijeme pospolu a oba dva
 v důvěrné shodě  
 jako pravá a levá ruka._
 
+</section>
+
+<section>
+
 _K večeru na zápraží  
 hrajeme drápky, s vážnou tváří,  
 jak se sluší na boha a na básníka  
@@ -139,6 +193,10 @@ a jako by v každém kamínku
 byl celý vesmír,  
 a proto ho za žádnou cenu nesmíme  
 nechat spadnout na zem._
+
+</section>
+
+<section>
 
 _Potom mu vyprávím, co se stává jen lidem,  
 a on se usmívá, protože všecko je k neuvěření.  
@@ -152,11 +210,19 @@ a která putuje se slunečním světlem
 přes hory a doly  
 a oslňuje oči obílenou zdí._
 
+</section>
+
+<section>
+
 _Potom usíná a já ho ukládám k spánku.  
 V náručí ho odnesu domů,  
 uložím ho a zvolna ho svlékám  
 jako v nějakém přečistém rituálu,  
 úžasně mateřsky až donaha._
+
+</section>
+
+<section>
 
 _Spí u mě v duši  
 a v noci se občas probouzí  
@@ -183,3 +249,5 @@ Z jakého rozumného důvodu
 by neměl být pravdivější  
 než vše, co vymýšlejí filozofové  
 a vše, co učí každé náboženství?_
+
+</section>
