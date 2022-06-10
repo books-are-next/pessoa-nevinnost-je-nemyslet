@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Až se znovu navrátí jaro,
 
 _možná už nebudu na světě.  
@@ -15,3 +17,5 @@ Ba nevracejí se ani květy či zelené listy.
 Jsou nové květy, nové zelené listy.  
 Jsou jiné vlídné dny.  
 Nic se nevrací, nic se neopakuje, protože vše je skutečné._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ze všemožných názorů o přírodě
 
 _nikdy nevyrostla ani travina, ani nevypučel květ.  
@@ -13,3 +15,5 @@ jaká by byla pravdivější než o věcech bez vědy?
 Zavřu oči a tvrdá zem, na níž ležím,  
 je reálná tak reálně, že i moje záda to cítí.  
 Nepotřebuji úvahy tam, kde mám bedra._
+
+</section>

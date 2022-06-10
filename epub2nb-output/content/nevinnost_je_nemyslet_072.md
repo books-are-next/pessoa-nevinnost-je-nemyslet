@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Špinavé cizí dítě hrající si u mých dveří,
 
 _neptám se, neseš-li mi poselství symbolů.  
@@ -15,8 +17,14 @@ Lepší je vidět něco vždy poprvé než to znát,
 protože znát je jako nikdy nevidět poprvé,  
 a nikdy nevidět poprvé je jenom o tom slyšet._
 
+</section>
+
+<section>
+
 _Tohle dítě je jinak špinavé, než jak jsou špinavé druhé děti.  
 Hraj si! Když popadneš kámen, co se ti vejde do dlaně,  
 víš, že se ti vejde do dlaně.  
 Jaká filozofie dá větší jistotu?  
 Žádná, a žádná si nikdy nemůže přijít hrát k mým dveřím._
+
+</section>

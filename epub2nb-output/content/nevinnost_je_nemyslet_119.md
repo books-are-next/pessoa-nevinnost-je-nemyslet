@@ -3,6 +3,8 @@ title: Álvaro de Campos Poznámky na paměť mého mistra Caeira
 contentType: prose
 ---
 
+<section>
+
 Svého mistra Caeira jsem poznal za zvláštních okolností – zvláštní jsou ostatně všechny životní okolnosti, především ty, které nejsouce ničím samy o sobě, stanou se vším svými důsledky.
 
 Nechal jsem studia námořního inženýrství ve Skotsku, když jsem byl téměř ze tří čtvrtin hotov, a odcestoval jsem na Východ; na zpáteční cestě jsem v Marseille vystoupil na pevninu, a protože mě omrzelo plavit se dál, odjel jsem po souši do Lisabonu. Bratranec mě jednou vzal na výlet do Ribateja; znal tam Caeirova bratrance, s nímž byl v obchodním spojení; a právě u něho jsem se seznámil s mužem, který se měl stát mým mistrem. Nevím, co bych o tom pověděl víc, protože je to krátké jako každé oplodnění.
@@ -15,11 +17,23 @@ Stalo se to při naší první rozmluvě… Nevím už, jak to přišlo, že naj
 
 Tato věta, kterou vyslovil tak, jako by to byl axiom země, mě uchvátila s otřesem příznačným pro každé první obcování a pronikla mi až do hloubi duše. Avšak na rozdíl od tělesného uchvácení mi bylo, jako by se náhle všem mým pocitům dostalo neposkvrněnosti, kterou jsem dřív neměl.
 
+</section>
+
+<section>
+
 Když jsem jednou mluvil o přímém chápání věcí, které je charakteristické pro Caierovu senzibilitu, citoval jsem mu v přátelské zlomyslnosti slova, jimiž Wordsworth označuje necitlivého člověka:
+
+</section>
+
+<section>
 
 _A primrose by the river’s brim  
 A yellow primrose was to him,  
 And it was nothing more._
+
+</section>
+
+<section>
 
 A přeložil jsem to (přičemž jsem se vyhnul přesnému překladu _primrose_, protože neznám jména květin a rostlin): „Květ na břehu řeky byl pro něj žlutým květem a ničím víc.“
 
@@ -32,6 +46,10 @@ Ale náhle se zamyslel.
 A pak řekl:
 
 „Váš anglický básník chtěl říct, že pro toho člověka byl ten žlutý květ běžnou zkušeností nebo něčím známým. A tak to právě nemá být. Každou věc, kterou vidíme, musíme vždycky vidět poprvé, protože ji skutečně vidíme poprvé. A tak každý žlutý květ je nějaký nový žlutý květ, i kdyby byl takzvaně stejný jako včera. Ani člověk, ani květina už nejsou stejní. Ani ta žluť už nemůže být stejná. Škoda že nemáme právě takové oči, abychom si to uvědomili, protože pak bychom byli všichni šťastni.“
+
+</section>
+
+<section>
 
 Můj mistr Caeiro nebyl pohan: byl pohanství. Ricardo Reis je pohan, António Mora je pohan, já jsem pohan; dokonce i sám Fernando Pessoa by byl pohan, kdyby nebyl klubko svinuté dovnitř. Ale Ricardo Reis je pohan charakterem, António Mora je pohan inteligencí, já jsem pohan revoltou, to znamená temperamentem. Caeirovo pohanství nelze vysvětlit, bylo to ztotožnění.
 
@@ -77,6 +95,10 @@ Jsou spontánní věty, hluboké, neboť jdou z hloubky, které definují člov
 
 Můj mistr Caeiro říkal jen to, co skutečně byl, a proto jej lze definovat čímkoli, co napsal nebo pronesl, zvlášť v období začínajícím druhou polovinou „Hlídače stád“. Avšak mezi tolika větami, které napsal a tisknou se, mezi tolika, jež mi řekl a já je buď uvádím, nebo neuvádím, nejprostěji ho vyjadřuje ta, kterou mi kdysi řekl v Lisabonu. Už nevím, o čem byla řeč, ale mělo to něco společného se vztahem člověka k sobě samému. A já jsem se náhle svého mistra Caeira zeptal: „Jste se sebou spokojen?“ A on mi odpověděl: „Ne: jsem spokojen.“ Znělo to jako hlas země, která je vše a nikdo.
 
+</section>
+
+<section>
+
 Nikdy jsem neviděl svého mistra Caeira smutného. Nevím, jestli byl smutný, když umíral nebo krátce před smrtí. Mohl bych se to dozvědět, ale abych pravdu řekl, nikdy jsem se lidí, kteří byli při tom, neodvážil zeptat, jak umřel.
 
 Rozhodně však to byla jedna z úzkostí mého života – z úzkostí skutečných mezi tolika fiktivními –, že Caeiro zemře, aniž budu u něho. Je to hloupé, ale lidské, a tak už to bývá.
@@ -84,3 +106,5 @@ Rozhodně však to byla jedna z úzkostí mého života – z úzkostí skute
 Byl jsem v Anglii. Ani Ricardo Reis v Lisabonu nebyl; vrátil se do Brazílie. Byl tu sice Fernando Pessoa, ale to je totéž, jako by tu nebyl. Fernando Pessoa všechno cítí, ale nic jím nepohne, ba ani vnitřně.
 
 Jedinou útěchou ve vědomí, že jsem tenkrát v Lisabonu u svého mistra Caeira nebyl, je mi pouhé pomyšlení na něho. Nikdo není neutěšitelný, připomeneme-li si Caeira nebo jeho verše; ba i sama představa nicoty – ta nejstrašnější ze všech představ, myslíme-li citlivě – nabývá v díle mého drahého mistra a ve vzpomínce na něho čehosi zářivého a vysokého, podobného slunci na sněhu nedostupných vrcholů.
+
+</section>

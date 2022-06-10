@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Nevinnost je nemyslet](https://search.mlp.cz/cz/titul/nevinnost-je-nemyslet/2694546/#/getPodobneTituly=deskriptory-eq:2790259-amp:key-eq:2694546) tak, jak bylo vydáno nakladatelstvím Garamond v Praze v roce 2008. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 16. 7. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

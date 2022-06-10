@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ano: existuji uvnitř svého těla.
 
 _Nemám slunce či měsíc v kapse.  
@@ -13,3 +15,5 @@ Ne: syn země, který když vyskočí, zakolísá,
 nezrozen pro tu chvíli ve vzduchu  
 a spokojen, jen když zas dopadne nohama na zem,  
 bum! na realitu, jež neselhává!_
+
+</section>

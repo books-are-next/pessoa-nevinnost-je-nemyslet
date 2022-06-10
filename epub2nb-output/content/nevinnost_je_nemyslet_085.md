@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Kdesi za zatáčkou cesty
 
 _je možná studna, možná hrad,  
@@ -22,3 +24,5 @@ Máme-li tam dojít my, dozvíme se vše, až tam dojdeme.
 Zatím víme jen, že tam nejsme.  
 Tady je jenom cesta před zatáčkou, a před zatáčkou  
 je cesta bez nějaké zatáčky._
+
+</section>

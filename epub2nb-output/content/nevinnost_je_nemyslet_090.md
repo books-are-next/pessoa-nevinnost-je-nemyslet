@@ -3,12 +3,22 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Dnes mi kdosi četl svatého Františka z Assisi.
 
 _Četl mi a já žasl._
 
+</section>
+
+<section>
+
 _Jak to, že člověk, který měl věci tak rád,  
 nikdy se na ně nedíval, nevěděl, co jsou?_
+
+</section>
+
+<section>
 
 _Proč bych říkal vodě sestro, když není má sestra?  
 Abych ji líp cítil?  
@@ -21,3 +31,5 @@ a že jestli je voda, nejlepší je říkat jí voda;
 nebo ještě lepší je neříkat jí nijak,  
 ale pít ji, cítit ji na zápěstí, dívat se na ni,  
 a to všechno beze jmen._
+
+</section>

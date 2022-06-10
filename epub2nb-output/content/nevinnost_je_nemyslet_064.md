@@ -3,6 +3,8 @@ title: V\.
 contentType: prose
 ---
 
+<section>
+
 _Nyní, když cítím lásku,  
 zajímají mě vůně.  
 Dřív mě nezajímalo, že květina nějak voní.  
@@ -12,3 +14,5 @@ Tyhle věci víme zvenčí.
 Teď však to vím vzadu v hlavě dýcháním.  
 Dnes mi květiny chutnají na čichovém patře.  
 Dnes se občas probudím a čichám dřív, než uvidím._
+
+</section>

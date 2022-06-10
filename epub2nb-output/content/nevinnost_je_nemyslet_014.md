@@ -3,11 +3,21 @@ title: V\.
 contentType: prose
 ---
 
+<section>
+
 _Na nic nemyslet je metafyzické až dost._
+
+</section>
+
+<section>
 
 _Co že si myslím o světě?  
 Kdoví, co já si myslím o světě!  
 Myslel bych na to, kdybych se rozstonal._
+
+</section>
+
+<section>
 
 _A jakou představu mám o věcech?  
 Jaký názor na příčiny a účinky?  
@@ -17,8 +27,16 @@ Nevím. Myslet na to je podle mě zavřít oči
 a nemyslet. Jako si zatáhnout záclony  
 na okně (ale já tam záclony nemám)._
 
+</section>
+
+<section>
+
 _Tajemství věcí? Kdoví, co je to tajemství!  
 Jediné tajemství je, že někdo na tajemství myslí._
+
+</section>
+
+<section>
 
 _Kdo je na slunci a zavře oči,  
 najednou neví, co je to slunce,  
@@ -28,8 +46,16 @@ a už na nic myslet nemůže,
 protože sluneční světlo stojí za víc než myšlenky  
 všech filozofů a všech básníků._
 
+</section>
+
+<section>
+
 _Sluneční světlo neví, co dělá,  
 a proto se nemýlí a je obecné a dobré._
+
+</section>
+
+<section>
 
 _Metafyzika? Jakou metafyziku mají tamty stromy?  
 Tu, že jsou zelené a košaté a mají větve  
@@ -39,6 +65,10 @@ Jaká ale metafyzika je lepší než jejich,
 totiž nevědět, proč žijí,  
 ani nevědět, že to nevědí?_
 
+</section>
+
+<section>
+
 _„Hluboké utváření věcí…“  
 „Hluboký smysl vesmíru…“  
 To všechno je falešné, nic to neříká.  
@@ -47,12 +77,24 @@ Jako by se myslelo na důvody a cíle,
 když pozvolna svítá a matný zlatavý třpyt  
 kolem stromů vystupuje z tmy._
 
+</section>
+
+<section>
+
 _Myslet na hluboký smysl věcí  
 znamená přidávat, třeba myslet na zdraví  
 nebo nést číši k vodě pramenů._
 
+</section>
+
+<section>
+
 _Jediný hluboký smysl věcí je,  
 že žádný hluboký smysl nemají._
+
+</section>
+
+<section>
 
 _Nevěřím v Boha, protože jsem ho nikdy neviděl.  
 Kdyby on chtěl, abych v něho věřil,  
@@ -60,10 +102,18 @@ jistě bv si se mnou přišel promluvit
 a vstoupil by ke mně dveřmi  
 se slovy _Tu jsem!__
 
+</section>
+
+<section>
+
 _(Možná to zní směšně tomu,  
 kdo nerozumí, když se mluví o věcech,  
 jak to učí pohled na ně,  
 protože sám se na věci dívat neumí.)_
+
+</section>
+
+<section>
 
 _Je-li však Bůh to, co květy a stromy  
 a hory a slunce a svit měsíce,  
@@ -71,6 +121,10 @@ pak v něho věřím,
 pak v něho věřím bez ustání  
 a celý můj život je modlitba a mše  
 a přijímání zrakem a sluchem._
+
+</section>
+
+<section>
 
 _Je-li však Bůh to, co stromy a květy  
 a hory a slunce a svit měsíce,  
@@ -83,6 +137,10 @@ a slunce a svit měsíce se mi jeví,
 pak chce, abych jako stromy a hory a květy  
 a slunce a svit měsíce jej znal._
 
+</section>
+
+<section>
+
 _A proto ho poslechnu  
 (co víc vím o Bohu než Bůh o sobě sám?),  
 poslechnu a žiju spontánně,  
@@ -91,3 +149,5 @@ a říkám mu slunce a svit měsíce a květy a stromy a hory
 a bez myšlení ho miluji  
 a myslím na něj zrakem a sluchem  
 a jsem s ním napořád._
+
+</section>

@@ -3,6 +3,8 @@ title: XLVI\.
 contentType: prose
 ---
 
+<section>
+
 _Ať tak či onak,  
 vhod nebo nevhod,  
 když někdy mohu říct, co si myslím,  
@@ -12,15 +14,27 @@ jako by psaní nebylo něco, co vzešlo z činu,
 jako by psaní bylo něco, co se mi přihodilo,  
 jako když na mě zasvítí slunce._
 
+</section>
+
+<section>
+
 _Snažím se říct, co cítím,  
 a nemyslet na to, co cítím.  
 Snažím se přiblížit slova k myšlence  
 a nepotřebovat k tomu chodbu  
 od myšlení ke slovům._
 
+</section>
+
+<section>
+
 _Nedokážu vždy cítit, co bych — jak vím — cítit měl.  
 Moje myšlení jen velice zvolna plave na druhý břeh řeky,  
 protože mu vadí oděv, který mu lidé vnutili._
+
+</section>
+
+<section>
 
 _Snažím se svléknout, co jsem si vštípil,  
 snažím se zapomenout, jak mě učili vzpomínat,  
@@ -29,6 +43,10 @@ vybalit své pravé emoce,
 vyprostit se a být já, nikoli Alberto Caeiro,  
 ale lidský živočich vytvořený přírodou._
 
+</section>
+
+<section>
+
 _A tak píšu v touze cítit přírodu, ani ne jako člověk  
 ale jako někdo, kdo cítí přírodu, a nic víc.  
 A tak píšu, jednou dobře, podruhé špatně,  
@@ -36,11 +54,19 @@ jednou výstižně, podruhé chybně,
 tu upadnu, tam se zvednu,  
 jdu však stále svou cestou jak umíněný slepec._
 
+</section>
+
+<section>
+
 _Přesto však jsem někdo.  
 Jsem objevitel přírody.  
 Jsem Argonaut opravdových pocitů.  
 Přináším vesmíru nový vesmír,  
 protože mu přináším, co je on sám._
+
+</section>
+
+<section>
 
 _To cítím a to píšu  
 při plném vědomí a maje na zřeteli,  
@@ -50,3 +76,5 @@ nad zeď obzoru,
 i tak již ukazuje špičky prstů,  
 jimiž se nahoře drží té zdi  
 obzoru plného kopečků._
+
+</section>

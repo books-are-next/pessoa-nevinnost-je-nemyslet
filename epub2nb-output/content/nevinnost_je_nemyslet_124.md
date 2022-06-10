@@ -3,6 +3,8 @@ title: Poznámka
 contentType: prose
 ---
 
+<section>
+
 Z poezie Alberta Caeira uveřejnil Fernando Pessoa za svého života časopisecky:
 
 23 básní z _Hlídače stád_ (Athena, č. 4 a 5/1925);
@@ -21,6 +23,10 @@ Značení v textu:
 
 \[…\] nejisté čtení rukopisu
 
+</section>
+
+<section>
+
 Použitá vydání:
 
 Fernando Pessoa: _Obra Poética_. Ed. Maria Aliete Galhoz. Companhia Aguilar Editora, Rio de Janeiro 1965
@@ -34,3 +40,5 @@ Fernando Pessoa: _Alberto Caeiro: Poesias_. Ed. Fernando Cabral Martins, Richard
 _Knižní předloha našeho vydání obsahuje obrazový materiál, především pak faksimile rukopisu_ Hlídače stád.
 
 > _Redakce MKP_
+
+</section>

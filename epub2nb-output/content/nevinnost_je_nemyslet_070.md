@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Mluvíš o civilizaci a že by neměla být,
 
 _nebo že by neměla být taková.  
@@ -17,3 +19,5 @@ Kdyby byly věci jiné, byly by jiné: to je vše.
 Kdyby byly věci, jak ty chceš, byly by jen, jak ty chceš.  
 Běda tobě a všem, kdo se celý život  
 snaží vynalézt stroj na výrobu štěstí!_
+
+</section>
