@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydání básní Alberta Caeira.)[4](./resources/undefined)_
+
+</div>
+
+</div>
 
 </section>
 
