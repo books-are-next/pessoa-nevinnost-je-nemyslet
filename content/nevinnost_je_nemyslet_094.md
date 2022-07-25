@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Přijmi vesmír,
+_Přijmi vesmír,_
 
 jak ti jej dali bohové.  
 Kdyby ti bohové chtěli dát jiný,  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Říkáš mi: ty jsi něco víc
+_Říkáš mi: ty jsi něco víc_
 
 než kámen nebo rostlina.  
 Říkáš mi: cítíš, myslíš a víš,  

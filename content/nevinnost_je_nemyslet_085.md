@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Kdesi za zatáčkou cesty
+_Kdesi za zatáčkou cesty_
 
 je možná studna, možná hrad,  
 a možná jenom cesta dál.  

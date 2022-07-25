@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Nestačí otevřít okno,
+_Nestačí otevřít okno,_
 
 abychom viděli louky a řeku.  
 Ani nestačí nebýt slepý,  

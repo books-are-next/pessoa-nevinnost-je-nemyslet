@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Lodi, jež odplouváš do dáli,
+_Lodi, jež odplouváš do dáli,_
 
 proč se mi na rozdíl od druhých  
 po tobě nestýská, jakmile zmizíš?  

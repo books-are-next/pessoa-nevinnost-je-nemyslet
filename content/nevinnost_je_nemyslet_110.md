@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Promlouvali ke mně o lidech, o lidstvu,
+_Promlouvali ke mně o lidech, o lidstvu,_
 
 ale já lidi ani lidstvo nikdy neviděl.  
 Viděl jsem různé lidi od sebe neuvěřitelně odlišné  

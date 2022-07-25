@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Dnes mi kdosi četl svatého Františka z Assisi.
+_Dnes mi kdosi četl svatého Františka z Assisi._
 
 Četl mi a já žasl.
 

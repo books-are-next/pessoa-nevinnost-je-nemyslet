@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Hlasitý dívčí smích se ozývá odněkud z cesty.
+_Hlasitý dívčí smích se ozývá odněkud z cesty._
 
 Platil slovům někoho, koho nevidím.  
 Mám to v paměti, jelikož jsem slyšel.  

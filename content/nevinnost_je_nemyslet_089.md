@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Je noc. A je velice temná. Ve vzdáleném domě
+_Je noc. A je velice temná. Ve vzdáleném domě_
 
 září v okně světlo.  
 Vidím je a cítím se lidský od hlavy k patě.  

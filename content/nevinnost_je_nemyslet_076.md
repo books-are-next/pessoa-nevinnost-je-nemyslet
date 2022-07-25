@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Včera zase ten hlasatel svých pravd
+_Včera zase ten hlasatel svých pravd_
 
 se mnou mluvil.  
 Mluvil o utrpení tříd, jež pracují  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Kdosi slyšel mé verše a řekl: co je na tom nového?
+_Kdosi slyšel mé verše a řekl: co je na tom nového?_
 
 Všichni vědí, že květ je květ a strom je strom.  
 Já však odvětil: kdepak všichni, nikdo.  

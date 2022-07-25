@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ať už je středem světa cokoli,
+_Ať už je středem světa cokoli,_
 
 dalo mi to vnější svět jako vzor reality,  
 a řeknu-li „to je reálné“, byť o citu,  

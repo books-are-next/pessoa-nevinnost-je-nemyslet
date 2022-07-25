@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Mezi tím, co vidím z jedné a z druhé strany krajiny,
+_Mezi tím, co vidím z jedné a z druhé strany krajiny,_
 
 prochází na okamžik postava muže.  
 Jeho kroky jdou s „ním“ v téže realitě,  
