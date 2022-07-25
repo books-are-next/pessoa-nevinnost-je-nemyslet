@@ -1,0 +1,2587 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Nevinnost je nemyslet",
+  "author": "Fernando Pessoa",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "pessoa-nevinnost-je-nemyslet-763803b",
+  "revision": "763803b",
+  "readingOrder": [
+    "promo.html",
+    "nevinnost_je_nemyslet_005.html",
+    "nevinnost_je_nemyslet_006.html",
+    "nevinnost_je_nemyslet_007.html",
+    "nevinnost_je_nemyslet_008.html",
+    "nevinnost_je_nemyslet_009.html",
+    "nevinnost_je_nemyslet_010.html",
+    "nevinnost_je_nemyslet_011.html",
+    "nevinnost_je_nemyslet_012.html",
+    "nevinnost_je_nemyslet_013.html",
+    "nevinnost_je_nemyslet_014.html",
+    "nevinnost_je_nemyslet_015.html",
+    "nevinnost_je_nemyslet_016.html",
+    "nevinnost_je_nemyslet_017.html",
+    "nevinnost_je_nemyslet_018.html",
+    "nevinnost_je_nemyslet_019.html",
+    "nevinnost_je_nemyslet_020.html",
+    "nevinnost_je_nemyslet_021.html",
+    "nevinnost_je_nemyslet_022.html",
+    "nevinnost_je_nemyslet_023.html",
+    "nevinnost_je_nemyslet_024.html",
+    "nevinnost_je_nemyslet_025.html",
+    "nevinnost_je_nemyslet_026.html",
+    "nevinnost_je_nemyslet_027.html",
+    "nevinnost_je_nemyslet_028.html",
+    "nevinnost_je_nemyslet_029.html",
+    "nevinnost_je_nemyslet_030.html",
+    "nevinnost_je_nemyslet_031.html",
+    "nevinnost_je_nemyslet_032.html",
+    "nevinnost_je_nemyslet_033.html",
+    "nevinnost_je_nemyslet_034.html",
+    "nevinnost_je_nemyslet_035.html",
+    "nevinnost_je_nemyslet_036.html",
+    "nevinnost_je_nemyslet_037.html",
+    "nevinnost_je_nemyslet_038.html",
+    "nevinnost_je_nemyslet_039.html",
+    "nevinnost_je_nemyslet_040.html",
+    "nevinnost_je_nemyslet_041.html",
+    "nevinnost_je_nemyslet_042.html",
+    "nevinnost_je_nemyslet_043.html",
+    "nevinnost_je_nemyslet_044.html",
+    "nevinnost_je_nemyslet_045.html",
+    "nevinnost_je_nemyslet_046.html",
+    "nevinnost_je_nemyslet_047.html",
+    "nevinnost_je_nemyslet_048.html",
+    "nevinnost_je_nemyslet_049.html",
+    "nevinnost_je_nemyslet_050.html",
+    "nevinnost_je_nemyslet_051.html",
+    "nevinnost_je_nemyslet_052.html",
+    "nevinnost_je_nemyslet_053.html",
+    "nevinnost_je_nemyslet_054.html",
+    "nevinnost_je_nemyslet_055.html",
+    "nevinnost_je_nemyslet_056.html",
+    "nevinnost_je_nemyslet_057.html",
+    "nevinnost_je_nemyslet_058.html",
+    "nevinnost_je_nemyslet_059.html",
+    "nevinnost_je_nemyslet_060.html",
+    "nevinnost_je_nemyslet_061.html",
+    "nevinnost_je_nemyslet_062.html",
+    "nevinnost_je_nemyslet_063.html",
+    "nevinnost_je_nemyslet_064.html",
+    "nevinnost_je_nemyslet_065.html",
+    "nevinnost_je_nemyslet_066.html",
+    "nevinnost_je_nemyslet_067.html",
+    "nevinnost_je_nemyslet_068.html",
+    "nevinnost_je_nemyslet_069.html",
+    "nevinnost_je_nemyslet_070.html",
+    "nevinnost_je_nemyslet_071.html",
+    "nevinnost_je_nemyslet_072.html",
+    "nevinnost_je_nemyslet_073.html",
+    "nevinnost_je_nemyslet_074.html",
+    "nevinnost_je_nemyslet_075.html",
+    "nevinnost_je_nemyslet_076.html",
+    "nevinnost_je_nemyslet_077.html",
+    "nevinnost_je_nemyslet_078.html",
+    "nevinnost_je_nemyslet_079.html",
+    "nevinnost_je_nemyslet_080.html",
+    "nevinnost_je_nemyslet_081.html",
+    "nevinnost_je_nemyslet_082.html",
+    "nevinnost_je_nemyslet_083.html",
+    "nevinnost_je_nemyslet_084.html",
+    "nevinnost_je_nemyslet_085.html",
+    "nevinnost_je_nemyslet_086.html",
+    "nevinnost_je_nemyslet_087.html",
+    "nevinnost_je_nemyslet_088.html",
+    "nevinnost_je_nemyslet_089.html",
+    "nevinnost_je_nemyslet_090.html",
+    "nevinnost_je_nemyslet_091.html",
+    "nevinnost_je_nemyslet_092.html",
+    "nevinnost_je_nemyslet_093.html",
+    "nevinnost_je_nemyslet_094.html",
+    "nevinnost_je_nemyslet_095.html",
+    "nevinnost_je_nemyslet_096.html",
+    "nevinnost_je_nemyslet_097.html",
+    "nevinnost_je_nemyslet_098.html",
+    "nevinnost_je_nemyslet_099.html",
+    "nevinnost_je_nemyslet_100.html",
+    "nevinnost_je_nemyslet_101.html",
+    "nevinnost_je_nemyslet_102.html",
+    "nevinnost_je_nemyslet_103.html",
+    "nevinnost_je_nemyslet_104.html",
+    "nevinnost_je_nemyslet_105.html",
+    "nevinnost_je_nemyslet_106.html",
+    "nevinnost_je_nemyslet_107.html",
+    "nevinnost_je_nemyslet_108.html",
+    "nevinnost_je_nemyslet_109.html",
+    "nevinnost_je_nemyslet_110.html",
+    "nevinnost_je_nemyslet_111.html",
+    "nevinnost_je_nemyslet_112.html",
+    "nevinnost_je_nemyslet_113.html",
+    "nevinnost_je_nemyslet_114.html",
+    "nevinnost_je_nemyslet_115.html",
+    "nevinnost_je_nemyslet_116.html",
+    "nevinnost_je_nemyslet_117.html",
+    "nevinnost_je_nemyslet_118.html",
+    "nevinnost_je_nemyslet_119.html",
+    "nevinnost_je_nemyslet_120.html",
+    "nevinnost_je_nemyslet_121.html",
+    "nevinnost_je_nemyslet_122.html",
+    "nevinnost_je_nemyslet_123.html",
+    "nevinnost_je_nemyslet_124.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 12:09:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658750988119
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "nevinnost_je_nemyslet_005.html",
+      "toc": []
+    },
+    {
+      "title": "Nevinnost je nemyslet",
+      "file": "nevinnost_je_nemyslet_005.html",
+      "words": 13,
+      "chars": 67,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "nevinnost_je_nemyslet_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nevinnost je nemyslet",
+      "file": "nevinnost_je_nemyslet_006.html",
+      "words": 23,
+      "chars": 151,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "nevinnost_je_nemyslet_005.html",
+      "next": "nevinnost_je_nemyslet_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva Ricarda Reise",
+      "file": "nevinnost_je_nemyslet_007.html",
+      "words": 693,
+      "chars": 4260,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "nevinnost_je_nemyslet_006.html",
+      "next": "nevinnost_je_nemyslet_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva Ricarda Reise",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod",
+      "file": "nevinnost_je_nemyslet_008.html",
+      "words": 735,
+      "chars": 4868,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "nevinnost_je_nemyslet_007.html",
+      "next": "nevinnost_je_nemyslet_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLÍDAČ STÁD",
+      "file": "nevinnost_je_nemyslet_009.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "nevinnost_je_nemyslet_008.html",
+      "next": "nevinnost_je_nemyslet_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLÍDAČ STÁD",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "nevinnost_je_nemyslet_010.html",
+      "words": 345,
+      "chars": 1819,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 6,
+      "prev": "nevinnost_je_nemyslet_009.html",
+      "next": "nevinnost_je_nemyslet_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "nevinnost_je_nemyslet_011.html",
+      "words": 147,
+      "chars": 816,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 7,
+      "prev": "nevinnost_je_nemyslet_010.html",
+      "next": "nevinnost_je_nemyslet_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.",
+      "file": "nevinnost_je_nemyslet_012.html",
+      "words": 101,
+      "chars": 517,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 8,
+      "prev": "nevinnost_je_nemyslet_011.html",
+      "next": "nevinnost_je_nemyslet_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.",
+      "file": "nevinnost_je_nemyslet_013.html",
+      "words": 245,
+      "chars": 1311,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 9,
+      "prev": "nevinnost_je_nemyslet_012.html",
+      "next": "nevinnost_je_nemyslet_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.",
+      "file": "nevinnost_je_nemyslet_014.html",
+      "words": 493,
+      "chars": 2469,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 10,
+      "prev": "nevinnost_je_nemyslet_013.html",
+      "next": "nevinnost_je_nemyslet_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI.",
+      "file": "nevinnost_je_nemyslet_015.html",
+      "words": 71,
+      "chars": 350,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "nevinnost_je_nemyslet_014.html",
+      "next": "nevinnost_je_nemyslet_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII.",
+      "file": "nevinnost_je_nemyslet_016.html",
+      "words": 81,
+      "chars": 418,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "nevinnost_je_nemyslet_015.html",
+      "next": "nevinnost_je_nemyslet_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII.",
+      "file": "nevinnost_je_nemyslet_017.html",
+      "words": 970,
+      "chars": 4914,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 13,
+      "prev": "nevinnost_je_nemyslet_016.html",
+      "next": "nevinnost_je_nemyslet_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX.",
+      "file": "nevinnost_je_nemyslet_018.html",
+      "words": 73,
+      "chars": 367,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "nevinnost_je_nemyslet_017.html",
+      "next": "nevinnost_je_nemyslet_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X.",
+      "file": "nevinnost_je_nemyslet_019.html",
+      "words": 80,
+      "chars": 387,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 15,
+      "prev": "nevinnost_je_nemyslet_018.html",
+      "next": "nevinnost_je_nemyslet_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI.",
+      "file": "nevinnost_je_nemyslet_020.html",
+      "words": 31,
+      "chars": 150,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 16,
+      "prev": "nevinnost_je_nemyslet_019.html",
+      "next": "nevinnost_je_nemyslet_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII.",
+      "file": "nevinnost_je_nemyslet_021.html",
+      "words": 38,
+      "chars": 217,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 17,
+      "prev": "nevinnost_je_nemyslet_020.html",
+      "next": "nevinnost_je_nemyslet_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII.",
+      "file": "nevinnost_je_nemyslet_022.html",
+      "words": 19,
+      "chars": 106,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 18,
+      "prev": "nevinnost_je_nemyslet_021.html",
+      "next": "nevinnost_je_nemyslet_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV.",
+      "file": "nevinnost_je_nemyslet_023.html",
+      "words": 58,
+      "chars": 326,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 19,
+      "prev": "nevinnost_je_nemyslet_022.html",
+      "next": "nevinnost_je_nemyslet_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV.",
+      "file": "nevinnost_je_nemyslet_024.html",
+      "words": 120,
+      "chars": 642,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 20,
+      "prev": "nevinnost_je_nemyslet_023.html",
+      "next": "nevinnost_je_nemyslet_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI.",
+      "file": "nevinnost_je_nemyslet_025.html",
+      "words": 86,
+      "chars": 436,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 21,
+      "prev": "nevinnost_je_nemyslet_024.html",
+      "next": "nevinnost_je_nemyslet_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII. Salát",
+      "file": "nevinnost_je_nemyslet_026.html",
+      "words": 78,
+      "chars": 425,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "nevinnost_je_nemyslet_025.html",
+      "next": "nevinnost_je_nemyslet_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII. Salát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII.",
+      "file": "nevinnost_je_nemyslet_027.html",
+      "words": 65,
+      "chars": 324,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "nevinnost_je_nemyslet_026.html",
+      "next": "nevinnost_je_nemyslet_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX.",
+      "file": "nevinnost_je_nemyslet_028.html",
+      "words": 47,
+      "chars": 279,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 24,
+      "prev": "nevinnost_je_nemyslet_027.html",
+      "next": "nevinnost_je_nemyslet_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX.",
+      "file": "nevinnost_je_nemyslet_029.html",
+      "words": 143,
+      "chars": 687,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 25,
+      "prev": "nevinnost_je_nemyslet_028.html",
+      "next": "nevinnost_je_nemyslet_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI.",
+      "file": "nevinnost_je_nemyslet_030.html",
+      "words": 116,
+      "chars": 625,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 26,
+      "prev": "nevinnost_je_nemyslet_029.html",
+      "next": "nevinnost_je_nemyslet_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII.",
+      "file": "nevinnost_je_nemyslet_031.html",
+      "words": 92,
+      "chars": 462,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 27,
+      "prev": "nevinnost_je_nemyslet_030.html",
+      "next": "nevinnost_je_nemyslet_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII.",
+      "file": "nevinnost_je_nemyslet_032.html",
+      "words": 85,
+      "chars": 439,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 28,
+      "prev": "nevinnost_je_nemyslet_031.html",
+      "next": "nevinnost_je_nemyslet_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV.",
+      "file": "nevinnost_je_nemyslet_033.html",
+      "words": 107,
+      "chars": 600,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 29,
+      "prev": "nevinnost_je_nemyslet_032.html",
+      "next": "nevinnost_je_nemyslet_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV.",
+      "file": "nevinnost_je_nemyslet_034.html",
+      "words": 87,
+      "chars": 458,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 30,
+      "prev": "nevinnost_je_nemyslet_033.html",
+      "next": "nevinnost_je_nemyslet_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI.",
+      "file": "nevinnost_je_nemyslet_035.html",
+      "words": 99,
+      "chars": 525,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 31,
+      "prev": "nevinnost_je_nemyslet_034.html",
+      "next": "nevinnost_je_nemyslet_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII.",
+      "file": "nevinnost_je_nemyslet_036.html",
+      "words": 76,
+      "chars": 387,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 32,
+      "prev": "nevinnost_je_nemyslet_035.html",
+      "next": "nevinnost_je_nemyslet_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII.",
+      "file": "nevinnost_je_nemyslet_037.html",
+      "words": 162,
+      "chars": 871,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 33,
+      "prev": "nevinnost_je_nemyslet_036.html",
+      "next": "nevinnost_je_nemyslet_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX.",
+      "file": "nevinnost_je_nemyslet_038.html",
+      "words": 91,
+      "chars": 441,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 34,
+      "prev": "nevinnost_je_nemyslet_037.html",
+      "next": "nevinnost_je_nemyslet_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX.",
+      "file": "nevinnost_je_nemyslet_039.html",
+      "words": 50,
+      "chars": 269,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 35,
+      "prev": "nevinnost_je_nemyslet_038.html",
+      "next": "nevinnost_je_nemyslet_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI.",
+      "file": "nevinnost_je_nemyslet_040.html",
+      "words": 69,
+      "chars": 403,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "nevinnost_je_nemyslet_039.html",
+      "next": "nevinnost_je_nemyslet_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII.",
+      "file": "nevinnost_je_nemyslet_041.html",
+      "words": 228,
+      "chars": 1162,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 37,
+      "prev": "nevinnost_je_nemyslet_040.html",
+      "next": "nevinnost_je_nemyslet_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII.",
+      "file": "nevinnost_je_nemyslet_042.html",
+      "words": 45,
+      "chars": 251,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 38,
+      "prev": "nevinnost_je_nemyslet_041.html",
+      "next": "nevinnost_je_nemyslet_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV.",
+      "file": "nevinnost_je_nemyslet_043.html",
+      "words": 125,
+      "chars": 644,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 39,
+      "prev": "nevinnost_je_nemyslet_042.html",
+      "next": "nevinnost_je_nemyslet_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV.",
+      "file": "nevinnost_je_nemyslet_044.html",
+      "words": 50,
+      "chars": 263,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 40,
+      "prev": "nevinnost_je_nemyslet_043.html",
+      "next": "nevinnost_je_nemyslet_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI.",
+      "file": "nevinnost_je_nemyslet_045.html",
+      "words": 114,
+      "chars": 590,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 41,
+      "prev": "nevinnost_je_nemyslet_044.html",
+      "next": "nevinnost_je_nemyslet_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII.",
+      "file": "nevinnost_je_nemyslet_046.html",
+      "words": 64,
+      "chars": 371,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 42,
+      "prev": "nevinnost_je_nemyslet_045.html",
+      "next": "nevinnost_je_nemyslet_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII.",
+      "file": "nevinnost_je_nemyslet_047.html",
+      "words": 71,
+      "chars": 402,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 43,
+      "prev": "nevinnost_je_nemyslet_046.html",
+      "next": "nevinnost_je_nemyslet_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX.",
+      "file": "nevinnost_je_nemyslet_048.html",
+      "words": 117,
+      "chars": 605,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 44,
+      "prev": "nevinnost_je_nemyslet_047.html",
+      "next": "nevinnost_je_nemyslet_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL.",
+      "file": "nevinnost_je_nemyslet_049.html",
+      "words": 54,
+      "chars": 265,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 45,
+      "prev": "nevinnost_je_nemyslet_048.html",
+      "next": "nevinnost_je_nemyslet_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI.",
+      "file": "nevinnost_je_nemyslet_050.html",
+      "words": 116,
+      "chars": 654,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 46,
+      "prev": "nevinnost_je_nemyslet_049.html",
+      "next": "nevinnost_je_nemyslet_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII.",
+      "file": "nevinnost_je_nemyslet_051.html",
+      "words": 33,
+      "chars": 192,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 47,
+      "prev": "nevinnost_je_nemyslet_050.html",
+      "next": "nevinnost_je_nemyslet_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII.",
+      "file": "nevinnost_je_nemyslet_052.html",
+      "words": 65,
+      "chars": 342,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 48,
+      "prev": "nevinnost_je_nemyslet_051.html",
+      "next": "nevinnost_je_nemyslet_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV.",
+      "file": "nevinnost_je_nemyslet_053.html",
+      "words": 96,
+      "chars": 565,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 49,
+      "prev": "nevinnost_je_nemyslet_052.html",
+      "next": "nevinnost_je_nemyslet_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV.",
+      "file": "nevinnost_je_nemyslet_054.html",
+      "words": 59,
+      "chars": 339,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 50,
+      "prev": "nevinnost_je_nemyslet_053.html",
+      "next": "nevinnost_je_nemyslet_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI.",
+      "file": "nevinnost_je_nemyslet_055.html",
+      "words": 252,
+      "chars": 1371,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 51,
+      "prev": "nevinnost_je_nemyslet_054.html",
+      "next": "nevinnost_je_nemyslet_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII.",
+      "file": "nevinnost_je_nemyslet_056.html",
+      "words": 115,
+      "chars": 636,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 52,
+      "prev": "nevinnost_je_nemyslet_055.html",
+      "next": "nevinnost_je_nemyslet_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII.",
+      "file": "nevinnost_je_nemyslet_057.html",
+      "words": 157,
+      "chars": 817,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 53,
+      "prev": "nevinnost_je_nemyslet_056.html",
+      "next": "nevinnost_je_nemyslet_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX.",
+      "file": "nevinnost_je_nemyslet_058.html",
+      "words": 85,
+      "chars": 488,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 54,
+      "prev": "nevinnost_je_nemyslet_057.html",
+      "next": "nevinnost_je_nemyslet_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZAMILOVANÝ PASTÝŘ",
+      "file": "nevinnost_je_nemyslet_059.html",
+      "words": 2,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 55,
+      "prev": "nevinnost_je_nemyslet_058.html",
+      "next": "nevinnost_je_nemyslet_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZAMILOVANÝ PASTÝŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "nevinnost_je_nemyslet_060.html",
+      "words": 120,
+      "chars": 647,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 56,
+      "prev": "nevinnost_je_nemyslet_059.html",
+      "next": "nevinnost_je_nemyslet_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "nevinnost_je_nemyslet_061.html",
+      "words": 86,
+      "chars": 434,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 57,
+      "prev": "nevinnost_je_nemyslet_060.html",
+      "next": "nevinnost_je_nemyslet_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.",
+      "file": "nevinnost_je_nemyslet_062.html",
+      "words": 96,
+      "chars": 497,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 58,
+      "prev": "nevinnost_je_nemyslet_061.html",
+      "next": "nevinnost_je_nemyslet_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.",
+      "file": "nevinnost_je_nemyslet_063.html",
+      "words": 74,
+      "chars": 366,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 59,
+      "prev": "nevinnost_je_nemyslet_062.html",
+      "next": "nevinnost_je_nemyslet_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.",
+      "file": "nevinnost_je_nemyslet_064.html",
+      "words": 64,
+      "chars": 342,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 60,
+      "prev": "nevinnost_je_nemyslet_063.html",
+      "next": "nevinnost_je_nemyslet_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI.",
+      "file": "nevinnost_je_nemyslet_065.html",
+      "words": 114,
+      "chars": 599,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 61,
+      "prev": "nevinnost_je_nemyslet_064.html",
+      "next": "nevinnost_je_nemyslet_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII.",
+      "file": "nevinnost_je_nemyslet_066.html",
+      "words": 173,
+      "chars": 899,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 62,
+      "prev": "nevinnost_je_nemyslet_065.html",
+      "next": "nevinnost_je_nemyslet_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII.",
+      "file": "nevinnost_je_nemyslet_067.html",
+      "words": 87,
+      "chars": 503,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 63,
+      "prev": "nevinnost_je_nemyslet_066.html",
+      "next": "nevinnost_je_nemyslet_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ROZPTÝLENÉ BÁSNĚ",
+      "file": "nevinnost_je_nemyslet_068.html",
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 64,
+      "prev": "nevinnost_je_nemyslet_067.html",
+      "next": "nevinnost_je_nemyslet_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ROZPTÝLENÉ BÁSNĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nestačí otevřít okno,",
+      "file": "nevinnost_je_nemyslet_069.html",
+      "words": 69,
+      "chars": 378,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 65,
+      "prev": "nevinnost_je_nemyslet_068.html",
+      "next": "nevinnost_je_nemyslet_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nestačí otevřít okno,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mluvíš o civilizaci a že by neměla být,",
+      "file": "nevinnost_je_nemyslet_070.html",
+      "words": 99,
+      "chars": 516,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 66,
+      "prev": "nevinnost_je_nemyslet_069.html",
+      "next": "nevinnost_je_nemyslet_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mluvíš o civilizaci a že by neměla být,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezi tím, co vidím z jedné a z druhé strany krajiny,",
+      "file": "nevinnost_je_nemyslet_071.html",
+      "words": 90,
+      "chars": 471,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 67,
+      "prev": "nevinnost_je_nemyslet_070.html",
+      "next": "nevinnost_je_nemyslet_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mezi tím, co vidím z jedné a z druhé strany krajiny,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Špinavé cizí dítě hrající si u mých dveří,",
+      "file": "nevinnost_je_nemyslet_072.html",
+      "words": 119,
+      "chars": 626,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 68,
+      "prev": "nevinnost_je_nemyslet_071.html",
+      "next": "nevinnost_je_nemyslet_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Špinavé cizí dítě hrající si u mých dveří,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pravda, lež, jistota, nejistota…",
+      "file": "nevinnost_je_nemyslet_073.html",
+      "words": 92,
+      "chars": 485,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 69,
+      "prev": "nevinnost_je_nemyslet_072.html",
+      "next": "nevinnost_je_nemyslet_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pravda, lež, jistota, nejistota…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hlasitý dívčí smích se ozývá odněkud z cesty.",
+      "file": "nevinnost_je_nemyslet_074.html",
+      "words": 55,
+      "chars": 306,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 70,
+      "prev": "nevinnost_je_nemyslet_073.html",
+      "next": "nevinnost_je_nemyslet_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlasitý dívčí smích se ozývá odněkud z cesty.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatojánská noc kdesi za zdí mého dvorku.",
+      "file": "nevinnost_je_nemyslet_075.html",
+      "words": 44,
+      "chars": 238,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 71,
+      "prev": "nevinnost_je_nemyslet_074.html",
+      "next": "nevinnost_je_nemyslet_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatojánská noc kdesi za zdí mého dvorku.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Včera zase ten hlasatel svých pravd",
+      "file": "nevinnost_je_nemyslet_076.html",
+      "words": 163,
+      "chars": 929,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 72,
+      "prev": "nevinnost_je_nemyslet_075.html",
+      "next": "nevinnost_je_nemyslet_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Včera zase ten hlasatel svých pravd",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty, mystiku, vidíš význam ve všech věcech.",
+      "file": "nevinnost_je_nemyslet_077.html",
+      "words": 67,
+      "chars": 360,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 73,
+      "prev": "nevinnost_je_nemyslet_076.html",
+      "next": "nevinnost_je_nemyslet_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty, mystiku, vidíš význam ve všech věcech.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —",
+      "file": "nevinnost_je_nemyslet_078.html",
+      "words": 112,
+      "chars": 521,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 74,
+      "prev": "nevinnost_je_nemyslet_077.html",
+      "next": "nevinnost_je_nemyslet_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Říkáš mi: ty jsi něco víc",
+      "file": "nevinnost_je_nemyslet_079.html",
+      "words": 215,
+      "chars": 1121,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 75,
+      "prev": "nevinnost_je_nemyslet_078.html",
+      "next": "nevinnost_je_nemyslet_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říkáš mi: ty jsi něco víc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úžasná realita věcí",
+      "file": "nevinnost_je_nemyslet_080.html",
+      "words": 206,
+      "chars": 1100,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 76,
+      "prev": "nevinnost_je_nemyslet_079.html",
+      "next": "nevinnost_je_nemyslet_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úžasná realita věcí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až se znovu navrátí jaro,",
+      "file": "nevinnost_je_nemyslet_081.html",
+      "words": 70,
+      "chars": 368,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 77,
+      "prev": "nevinnost_je_nemyslet_080.html",
+      "next": "nevinnost_je_nemyslet_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až se znovu navrátí jaro,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zemřu-li mlád",
+      "file": "nevinnost_je_nemyslet_082.html",
+      "words": 221,
+      "chars": 1222,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 78,
+      "prev": "nevinnost_je_nemyslet_081.html",
+      "next": "nevinnost_je_nemyslet_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zemřu-li mlád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až přijde jaro",
+      "file": "nevinnost_je_nemyslet_083.html",
+      "words": 140,
+      "chars": 723,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 79,
+      "prev": "nevinnost_je_nemyslet_082.html",
+      "next": "nevinnost_je_nemyslet_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až přijde jaro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jestliže až zemřu, budete chtít napsat můj životopis,",
+      "file": "nevinnost_je_nemyslet_084.html",
+      "words": 111,
+      "chars": 639,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 80,
+      "prev": "nevinnost_je_nemyslet_083.html",
+      "next": "nevinnost_je_nemyslet_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jestliže až zemřu, budete chtít napsat můj životopis,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdesi za zatáčkou cesty",
+      "file": "nevinnost_je_nemyslet_085.html",
+      "words": 117,
+      "chars": 611,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 81,
+      "prev": "nevinnost_je_nemyslet_084.html",
+      "next": "nevinnost_je_nemyslet_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdesi za zatáčkou cesty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nevím, jak se západ slunce může zdát smutný.",
+      "file": "nevinnost_je_nemyslet_086.html",
+      "words": 27,
+      "chars": 140,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 82,
+      "prev": "nevinnost_je_nemyslet_085.html",
+      "next": "nevinnost_je_nemyslet_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nevím, jak se západ slunce může zdát smutný.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deštivý den je stejně krásný jako den plný slunce.",
+      "file": "nevinnost_je_nemyslet_087.html",
+      "words": 15,
+      "chars": 86,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 83,
+      "prev": "nevinnost_je_nemyslet_086.html",
+      "next": "nevinnost_je_nemyslet_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deštivý den je stejně krásný jako den plný slunce.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až na mém hrobě vyroste tráva,",
+      "file": "nevinnost_je_nemyslet_088.html",
+      "words": 38,
+      "chars": 223,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 84,
+      "prev": "nevinnost_je_nemyslet_087.html",
+      "next": "nevinnost_je_nemyslet_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až na mém hrobě vyroste tráva,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je noc. A je velice temná. Ve vzdáleném domě",
+      "file": "nevinnost_je_nemyslet_089.html",
+      "words": 138,
+      "chars": 735,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 85,
+      "prev": "nevinnost_je_nemyslet_088.html",
+      "next": "nevinnost_je_nemyslet_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je noc. A je velice temná. Ve vzdáleném domě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dnes mi kdosi četl svatého Františka z Assisi.",
+      "file": "nevinnost_je_nemyslet_090.html",
+      "words": 114,
+      "chars": 557,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 86,
+      "prev": "nevinnost_je_nemyslet_089.html",
+      "next": "nevinnost_je_nemyslet_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dnes mi kdosi četl svatého Františka z Assisi.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chtěl bych mít tolik času a klidu,",
+      "file": "nevinnost_je_nemyslet_091.html",
+      "words": 27,
+      "chars": 137,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 87,
+      "prev": "nevinnost_je_nemyslet_090.html",
+      "next": "nevinnost_je_nemyslet_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chtěl bych mít tolik času a klidu,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Snáší se noc, horko polevuje.",
+      "file": "nevinnost_je_nemyslet_092.html",
+      "words": 50,
+      "chars": 285,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 88,
+      "prev": "nevinnost_je_nemyslet_091.html",
+      "next": "nevinnost_je_nemyslet_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Snáší se noc, horko polevuje.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsem nemocný. Myšlenky se mi začínají plést.",
+      "file": "nevinnost_je_nemyslet_093.html",
+      "words": 41,
+      "chars": 248,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 89,
+      "prev": "nevinnost_je_nemyslet_092.html",
+      "next": "nevinnost_je_nemyslet_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsem nemocný. Myšlenky se mi začínají plést.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přijmi vesmír,",
+      "file": "nevinnost_je_nemyslet_094.html",
+      "words": 27,
+      "chars": 129,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 90,
+      "prev": "nevinnost_je_nemyslet_093.html",
+      "next": "nevinnost_je_nemyslet_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přijmi vesmír,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je-li v zimním období zima, beru to jako něco příjemného,",
+      "file": "nevinnost_je_nemyslet_095.html",
+      "words": 137,
+      "chars": 845,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 91,
+      "prev": "nevinnost_je_nemyslet_094.html",
+      "next": "nevinnost_je_nemyslet_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je-li v zimním období zima, beru to jako něco příjemného,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ať už je středem světa cokoli,",
+      "file": "nevinnost_je_nemyslet_096.html",
+      "words": 401,
+      "chars": 2250,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 92,
+      "prev": "nevinnost_je_nemyslet_095.html",
+      "next": "nevinnost_je_nemyslet_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ať už je středem světa cokoli,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je mi to jedno.",
+      "file": "nevinnost_je_nemyslet_097.html",
+      "words": 13,
+      "chars": 53,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 93,
+      "prev": "nevinnost_je_nemyslet_096.html",
+      "next": "nevinnost_je_nemyslet_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je mi to jedno.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Válka, jež svými vojsky sužuje svět,",
+      "file": "nevinnost_je_nemyslet_098.html",
+      "words": 142,
+      "chars": 849,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 94,
+      "prev": "nevinnost_je_nemyslet_097.html",
+      "next": "nevinnost_je_nemyslet_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Válka, jež svými vojsky sužuje svět,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ze všemožných názorů o přírodě",
+      "file": "nevinnost_je_nemyslet_099.html",
+      "words": 61,
+      "chars": 333,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 95,
+      "prev": "nevinnost_je_nemyslet_098.html",
+      "next": "nevinnost_je_nemyslet_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ze všemožných názorů o přírodě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lodi, jež odplouváš do dáli,",
+      "file": "nevinnost_je_nemyslet_100.html",
+      "words": 43,
+      "chars": 230,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 96,
+      "prev": "nevinnost_je_nemyslet_099.html",
+      "next": "nevinnost_je_nemyslet_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lodi, jež odplouváš do dáli,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ponenáhlu šíří se krajina a zlátne.",
+      "file": "nevinnost_je_nemyslet_101.html",
+      "words": 37,
+      "chars": 203,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 97,
+      "prev": "nevinnost_je_nemyslet_100.html",
+      "next": "nevinnost_je_nemyslet_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ponenáhlu šíří se krajina a zlátne.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední hvězdo mizící před svítáním,",
+      "file": "nevinnost_je_nemyslet_102.html",
+      "words": 51,
+      "chars": 287,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 98,
+      "prev": "nevinnost_je_nemyslet_101.html",
+      "next": "nevinnost_je_nemyslet_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední hvězdo mizící před svítáním,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdosi slyšel mé verše a řekl: co je na tom nového?",
+      "file": "nevinnost_je_nemyslet_103.html",
+      "words": 65,
+      "chars": 346,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 99,
+      "prev": "nevinnost_je_nemyslet_102.html",
+      "next": "nevinnost_je_nemyslet_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdosi slyšel mé verše a řekl: co je na tom nového?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ano: existuji uvnitř svého těla.",
+      "file": "nevinnost_je_nemyslet_104.html",
+      "words": 51,
+      "chars": 306,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 100,
+      "prev": "nevinnost_je_nemyslet_103.html",
+      "next": "nevinnost_je_nemyslet_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ano: existuji uvnitř svého těla.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zeleň modrého nebe, dřív než vyjde slunce,",
+      "file": "nevinnost_je_nemyslet_105.html",
+      "words": 38,
+      "chars": 216,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 101,
+      "prev": "nevinnost_je_nemyslet_104.html",
+      "next": "nevinnost_je_nemyslet_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zeleň modrého nebe, dřív než vyjde slunce,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jako dítě, dřív než je druzí naučí být velké,",
+      "file": "nevinnost_je_nemyslet_106.html",
+      "words": 18,
+      "chars": 92,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 102,
+      "prev": "nevinnost_je_nemyslet_105.html",
+      "next": "nevinnost_je_nemyslet_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jako dítě, dřív než je druzí naučí být velké,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nevím, co je to znát se. Nevidím dovnitř.",
+      "file": "nevinnost_je_nemyslet_107.html",
+      "words": 15,
+      "chars": 83,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 103,
+      "prev": "nevinnost_je_nemyslet_106.html",
+      "next": "nevinnost_je_nemyslet_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nevím, co je to znát se. Nevidím dovnitř.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlastenec? Ne: jen Portugalec.",
+      "file": "nevinnost_je_nemyslet_108.html",
+      "words": 23,
+      "chars": 145,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 104,
+      "prev": "nevinnost_je_nemyslet_107.html",
+      "next": "nevinnost_je_nemyslet_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlastenec? Ne: jen Portugalec.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Natáhnu se do trávy",
+      "file": "nevinnost_je_nemyslet_109.html",
+      "words": 57,
+      "chars": 295,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 105,
+      "prev": "nevinnost_je_nemyslet_108.html",
+      "next": "nevinnost_je_nemyslet_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Natáhnu se do trávy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Promlouvali ke mně o lidech, o lidstvu,",
+      "file": "nevinnost_je_nemyslet_110.html",
+      "words": 30,
+      "chars": 171,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 106,
+      "prev": "nevinnost_je_nemyslet_109.html",
+      "next": "nevinnost_je_nemyslet_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Promlouvali ke mně o lidech, o lidstvu,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nikdy jsem se nesnažil žít svůj život.",
+      "file": "nevinnost_je_nemyslet_111.html",
+      "words": 34,
+      "chars": 178,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 107,
+      "prev": "nevinnost_je_nemyslet_110.html",
+      "next": "nevinnost_je_nemyslet_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nikdy jsem se nesnažil žít svůj život.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žij, pravíš, v přítomnosti;",
+      "file": "nevinnost_je_nemyslet_112.html",
+      "words": 131,
+      "chars": 701,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 108,
+      "prev": "nevinnost_je_nemyslet_111.html",
+      "next": "nevinnost_je_nemyslet_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žij, pravíš, v přítomnosti;",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prý v každé věci dlí nějaká skrytá věc.",
+      "file": "nevinnost_je_nemyslet_113.html",
+      "words": 191,
+      "chars": 998,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 109,
+      "prev": "nevinnost_je_nemyslet_112.html",
+      "next": "nevinnost_je_nemyslet_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prý v každé věci dlí nějaká skrytá věc.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sníh položil na vše tichou pokrývku",
+      "file": "nevinnost_je_nemyslet_114.html",
+      "words": 35,
+      "chars": 204,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 110,
+      "prev": "nevinnost_je_nemyslet_113.html",
+      "next": "nevinnost_je_nemyslet_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sníh položil na vše tichou pokrývku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dnes ráno jsem si vyšel časně,",
+      "file": "nevinnost_je_nemyslet_115.html",
+      "words": 58,
+      "chars": 285,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 111,
+      "prev": "nevinnost_je_nemyslet_114.html",
+      "next": "nevinnost_je_nemyslet_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dnes ráno jsem si vyšel časně,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První předzvěst pozítřejší bouřky,",
+      "file": "nevinnost_je_nemyslet_116.html",
+      "words": 122,
+      "chars": 672,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 112,
+      "prev": "nevinnost_je_nemyslet_115.html",
+      "next": "nevinnost_je_nemyslet_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První předzvěst pozítřejší bouřky,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předposlední báseň",
+      "file": "nevinnost_je_nemyslet_117.html",
+      "words": 96,
+      "chars": 473,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 113,
+      "prev": "nevinnost_je_nemyslet_116.html",
+      "next": "nevinnost_je_nemyslet_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předposlední báseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "(Nadiktováno básníkem v den jeho smrti)",
+      "file": "nevinnost_je_nemyslet_118.html",
+      "words": 35,
+      "chars": 199,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 114,
+      "prev": "nevinnost_je_nemyslet_117.html",
+      "next": "nevinnost_je_nemyslet_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "(Nadiktováno básníkem v den jeho smrti)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Álvaro de Campos Poznámky na paměť mého mistra Caeira",
+      "file": "nevinnost_je_nemyslet_119.html",
+      "words": 1463,
+      "chars": 8669,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 115,
+      "prev": "nevinnost_je_nemyslet_118.html",
+      "next": "nevinnost_je_nemyslet_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Álvaro de Campos Poznámky na paměť mého mistra Caeira",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOKUMENTY",
+      "file": "nevinnost_je_nemyslet_120.html",
+      "words": 1,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 116,
+      "prev": "nevinnost_je_nemyslet_119.html",
+      "next": "nevinnost_je_nemyslet_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOKUMENTY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pessoův dopis Armandu Cortes-Rodriguesovi",
+      "file": "nevinnost_je_nemyslet_121.html",
+      "words": 1543,
+      "chars": 9494,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 117,
+      "prev": "nevinnost_je_nemyslet_120.html",
+      "next": "nevinnost_je_nemyslet_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pessoův dopis Armandu Cortes-Rodriguesovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pessoův dopis Adolfu Casaisu Monteirovi",
+      "file": "nevinnost_je_nemyslet_122.html",
+      "words": 3259,
+      "chars": 19790,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 118,
+      "prev": "nevinnost_je_nemyslet_121.html",
+      "next": "nevinnost_je_nemyslet_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pessoův dopis Adolfu Casaisu Monteirovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Květinové dítě Alberto Caeiro?",
+      "file": "nevinnost_je_nemyslet_123.html",
+      "words": 1729,
+      "chars": 11768,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 119,
+      "prev": "nevinnost_je_nemyslet_122.html",
+      "next": "nevinnost_je_nemyslet_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Květinové dítě Alberto Caeiro?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka",
+      "file": "nevinnost_je_nemyslet_124.html",
+      "words": 148,
+      "chars": 986,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 120,
+      "prev": "nevinnost_je_nemyslet_123.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 151,
+      "chars": 986,
+      "ideas": 19,
+      "role": "about",
+      "order": null,
+      "prev": "nevinnost_je_nemyslet_124.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 21107,
+      "chars": 121389,
+      "ideas": 2000
+    },
+    "chapters": {
+      "words": 20949,
+      "chars": 120358,
+      "ideas": 1977
+    }
+  }
+}

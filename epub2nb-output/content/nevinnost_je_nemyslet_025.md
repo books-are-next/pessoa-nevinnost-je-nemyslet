@@ -1,6 +1,6 @@
 ---
 title: XVI\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Hlasitý dívčí smích se ozývá odněkud z\_cesty\\."
+contentType: poetry
 ---
 
 <section>
-
-Hlasitý dívčí smích se ozývá odněkud z cesty.
 
 _Platil slovům někoho, koho nevidím.  
 Mám to v paměti, jelikož jsem slyšel.  

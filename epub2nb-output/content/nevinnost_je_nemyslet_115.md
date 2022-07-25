@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Dnes ráno jsem si vyšel časně,
+contentType: poetry
 ---
 
 <section>
-
-Dnes ráno jsem si vyšel časně,
 
 _neboť jsem procitl ještě časněji  
 a neměl, co by se mi chtělo dělat…_

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Deštivý den je stejně krásný jako den plný slunce\.
+contentType: poetry
 ---
 
 <section>
-
-Deštivý den je stejně krásný jako den plný slunce.
 
 _Oba existují, každý takový, jaký je._
 

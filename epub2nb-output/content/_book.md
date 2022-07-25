@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Nevinnost je nemyslet
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Fernando Pessoa
   publisher: Městská knihovna v Praze
   modified: '2021-07-13T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: Poezie
 readingOrder:
   - promo.html
-  - nevinnost_je_nemyslet_001.html
-  - nevinnost_je_nemyslet_002.html
-  - nevinnost_je_nemyslet_003.html
-  - nevinnost_je_nemyslet_004.html
   - nevinnost_je_nemyslet_005.html
   - nevinnost_je_nemyslet_006.html
   - nevinnost_je_nemyslet_007.html
@@ -135,11 +135,228 @@ readingOrder:
   - nevinnost_je_nemyslet_122.html
   - nevinnost_je_nemyslet_123.html
   - nevinnost_je_nemyslet_124.html
-  - nevinnost_je_nemyslet_125.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: nevinnost_je_nemyslet_005.html
+        title: Citát I
+        hiddenTitle: true
+      - link: nevinnost_je_nemyslet_006.html
+        title: Citát II
+        hiddenTitle: true
+      - link: nevinnost_je_nemyslet_007.html
+        title: Předmluva Ricarda Reise
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_008.html
+        title: Úvod
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_009.html
+        title: HLÍDAČ STÁD
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_010.html
+        title: I.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_011.html
+        title: II.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_012.html
+        title: III.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_013.html
+        title: IV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_014.html
+        title: V.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_015.html
+        title: VI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_016.html
+        title: VII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_017.html
+        title: VIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_018.html
+        title: IX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_019.html
+        title: X.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_020.html
+        title: XI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_021.html
+        title: XII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_022.html
+        title: XIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_023.html
+        title: XIV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_024.html
+        title: XV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_025.html
+        title: XVI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_026.html
+        title: XVII. Salát
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_027.html
+        title: XVIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_028.html
+        title: XIX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_029.html
+        title: XX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_030.html
+        title: XXI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_031.html
+        title: XXII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_032.html
+        title: XXIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_033.html
+        title: XXIV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_034.html
+        title: XXV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_035.html
+        title: XXVI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_036.html
+        title: XXVII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_037.html
+        title: XXVIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_038.html
+        title: XXIX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_039.html
+        title: XXX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_040.html
+        title: XXXI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_041.html
+        title: XXXII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_042.html
+        title: XXXIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_043.html
+        title: XXXIV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_044.html
+        title: XXXV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_045.html
+        title: XXXVI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_046.html
+        title: XXXVII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_047.html
+        title: XXXVIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_048.html
+        title: XXXIX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_049.html
+        title: XL.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_050.html
+        title: XLI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_051.html
+        title: XLII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_052.html
+        title: XLIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_053.html
+        title: XLIV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_054.html
+        title: XLV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_055.html
+        title: XLVI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_056.html
+        title: XLVII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_057.html
+        title: XLVIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_058.html
+        title: XLIX.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_059.html
+        title: ZAMILOVANÝ PASTÝŘ
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_060.html
+        title: I.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_061.html
+        title: II.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_062.html
+        title: III.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_063.html
+        title: IV.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_064.html
+        title: V.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_065.html
+        title: VI.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_066.html
+        title: VII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_067.html
+        title: VIII.
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_068.html
+        title: ROZPTÝLENÉ BÁSNĚ
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_117.html
+        title: Předposlední báseň
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_118.html
+        title: (Nadiktováno básníkem v den jeho smrti)
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_119.html
+        title: Álvaro de Campos Poznámky na paměť mého mistra Caeira
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_120.html
+        title: DOKUMENTY
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_121.html
+        title: Pessoův dopis Armandu Cortes-Rodriguesovi
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_122.html
+        title: Pessoův dopis Adolfu Casaisu Monteirovi
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_123.html
+        title: Květinové dítě Alberto Caeiro?
+        hiddenTitle: false
+      - link: nevinnost_je_nemyslet_124.html
+        title: Poznámka
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

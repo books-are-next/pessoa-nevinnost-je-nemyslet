@@ -1,6 +1,6 @@
 ---
 title: Pessoův dopis Adolfu Casaisu Monteirovi
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Ze všemožných názorů o\_přírodě"
+contentType: poetry
 ---
 
 <section>
-
-Ze všemožných názorů o přírodě
 
 _nikdy nevyrostla ani travina, ani nevypučel květ.  
 Na veškeré vědění o věcech  

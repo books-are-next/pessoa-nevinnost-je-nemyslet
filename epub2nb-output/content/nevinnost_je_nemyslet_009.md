@@ -1,6 +1,6 @@
 ---
 title: HLÍDAČ STÁD
-contentType: prose
+contentType: poetry
 ---
 
 

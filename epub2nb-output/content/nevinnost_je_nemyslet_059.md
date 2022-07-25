@@ -1,6 +1,6 @@
 ---
 title: ZAMILOVANÝ PASTÝŘ
-contentType: prose
+contentType: poetry
 ---
 
 

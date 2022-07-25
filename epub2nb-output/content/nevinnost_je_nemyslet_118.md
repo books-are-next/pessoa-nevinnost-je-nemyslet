@@ -1,6 +1,6 @@
 ---
 title: (Nadiktováno básníkem v den jeho smrti)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

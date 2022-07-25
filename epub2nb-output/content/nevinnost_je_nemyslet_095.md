@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Je-li v\_zimním období zima, beru to jako něco příjemného,"
+contentType: poetry
 ---
 
 <section>
-
-Je-li v zimním období zima, beru to jako něco příjemného,
 
 _protože pro mou bytost, přizpůsobenou existenci věcí,  
 přirozené je příjemné jen proto, že je přirozené._

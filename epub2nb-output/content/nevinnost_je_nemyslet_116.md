@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: První předzvěst pozítřejší bouřky,
+contentType: poetry
 ---
 
 <section>
-
-První předzvěst pozítřejší bouřky,
 
 _první bílá oblaka nízko plující po matné obloze.  
 Pozítřejší bouřky?  

@@ -1,6 +1,6 @@
 ---
 title: XIX\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

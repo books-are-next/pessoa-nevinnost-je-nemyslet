@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Až přijde jaro
+contentType: poetry
 ---
 
 <section>
-
-Až přijde jaro
 
 _a já snad budu po smrti,  
 stejně rozkvetou květy  

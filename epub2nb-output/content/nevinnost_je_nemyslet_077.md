@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Ty, mystiku, vidíš význam ve všech věcech\.
+contentType: poetry
 ---
 
 <section>
-
-Ty, mystiku, vidíš význam ve všech věcech.
 
 _Pro tebe všechno má skrytý smysl.  
 V každé věci, již vidíš, je něco utajeno.  

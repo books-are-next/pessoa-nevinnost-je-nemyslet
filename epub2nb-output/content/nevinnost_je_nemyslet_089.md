@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Je noc\\. A\_je velice temná\\. Ve vzdáleném domě"
+contentType: poetry
 ---
 
 <section>
-
-Je noc. A je velice temná. Ve vzdáleném domě
 
 _září v okně světlo.  
 Vidím je a cítím se lidský od hlavy k patě.  

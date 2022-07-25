@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Zeleň modrého nebe, dřív než vyjde slunce,
+contentType: poetry
 ---
 
 <section>
-
-Zeleň modrého nebe, dřív než vyjde slunce,
 
 _a bílá modř západu, kde zář slunce vymizela._
 

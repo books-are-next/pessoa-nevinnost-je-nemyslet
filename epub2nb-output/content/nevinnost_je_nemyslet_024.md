@@ -1,6 +1,6 @@
 ---
 title: XV\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

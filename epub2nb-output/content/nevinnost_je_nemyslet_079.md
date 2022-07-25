@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: 'Říkáš mi: ty jsi něco víc'
+contentType: poetry
 ---
 
 <section>
-
-Říkáš mi: ty jsi něco víc
 
 _než kámen nebo rostlina.  
 Říkáš mi: cítíš, myslíš a víš,  

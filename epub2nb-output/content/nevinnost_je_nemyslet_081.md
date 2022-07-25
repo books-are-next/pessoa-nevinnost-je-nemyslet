@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Až se znovu navrátí jaro,
+contentType: poetry
 ---
 
 <section>
-
-Až se znovu navrátí jaro,
 
 _možná už nebudu na světě.  
 Teď bych si rád myslel, že jaro je bytost,  
