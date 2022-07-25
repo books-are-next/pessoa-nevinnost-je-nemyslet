@@ -8,6 +8,6 @@ contentType: poetry
 
 Je mi to jedno.
 
-_Co je mi jedno? Nevím: je mi to jedno._
+Co je mi jedno? Nevím: je mi to jedno.
 
 </section>

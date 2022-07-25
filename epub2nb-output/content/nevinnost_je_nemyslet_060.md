@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Když jsem tě neměl,  
+Když jsem tě neměl,  
 miloval jsem přírodu jako klidný mnich Krista…  
 Nyní miluji přírodu  
 jako klidný mnich Pannu Marii,  
@@ -22,14 +22,14 @@ Proto, že existuješ, vidím ji líp, ale stejnou,
 proto, že mě miluješ, miluji ji stejně, ale víc,  
 proto, že sis mě zvolila, abych tě měl a miloval,  
 moje oči se na tom všem  
-pozdržely déle._
+pozdržely déle.
 
 </section>
 
 <section>
 
-_Nelituji toho, čím jsem býval dřív,  
+Nelituji toho, čím jsem býval dřív,  
 protože tím stále jsem.  
-Jenom lituji, že jsem tě dřív nemiloval._
+Jenom lituji, že jsem tě dřív nemiloval.
 
 </section>

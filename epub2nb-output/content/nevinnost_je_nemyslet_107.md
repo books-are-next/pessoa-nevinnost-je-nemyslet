@@ -8,6 +8,6 @@ contentType: poetry
 
 Nevím, co je to znát se. Nevidím dovnitř.
 
-_Nevěřím, že bych existoval kdesi za sebou._
+Nevěřím, že bych existoval kdesi za sebou.
 
 </section>

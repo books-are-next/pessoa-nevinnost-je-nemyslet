@@ -6,8 +6,8 @@ contentType: poetry
 
 <section>
 
-_Natáhnu se do trávy  
-a zapomenu na všecko, co mě učili._
+Natáhnu se do trávy  
+a zapomenu na všecko, co mě učili.
 
 _Alberto Caeiro_
 

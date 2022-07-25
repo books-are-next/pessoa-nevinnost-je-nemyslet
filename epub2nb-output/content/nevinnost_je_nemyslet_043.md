@@ -5,26 +5,26 @@ contentType: poetry
 
 <section>
 
-_Zdá se mi tak přirozené vůbec nemyslet,  
+Zdá se mi tak přirozené vůbec nemyslet,  
 že se někdy o samotě rozesměju  
 ani nevím čemu, snad něčemu,  
-co předpokládá, že jsou lidé, kteří myslí…_
+co předpokládá, že jsou lidé, kteří myslí…
 
 </section>
 
 <section>
 
-_Co si asi myslí moje zeď o mém stínu?  
+Co si asi myslí moje zeď o mém stínu?  
 Někdy se tak sám sebe ptám, dokud si nevšimnu,  
 že se na něco vyptávám…  
 A pak si připadám stejně nepříjemně,  
-jako bych si všiml, že mi zdřevěněla noha…_
+jako bych si všiml, že mi zdřevěněla noha…
 
 </section>
 
 <section>
 
-_Co si asi myslí tohle o tomhle?  
+Co si asi myslí tohle o tomhle?  
 Nic si nic nemyslí.  
 Uvědomuje si země kameny a rostliny, které má?  
 Tak ať si je uvědomuje…  
@@ -34,6 +34,6 @@ už bych neviděl stromy a rostliny,
 už bych neviděl Zemi  
 a uviděl bych jen svoje myšlenky…  
 Smutně bych zůstal v tmách.  
-Takhle bez myšlení mám Zemi a Nebe._
+Takhle bez myšlení mám Zemi a Nebe.
 
 </section>

@@ -7,7 +7,7 @@ contentType: poetry
 
 > _Ricardu Reisovi_
 
-_I já se umím domýšlet.  
+I já se umím domýšlet.  
 V každé věci existuje to, co sama je, co ji oživuje.  
 V rostlině to dlí zevně a je to malá nymfa.  
 Ve zvířeti je to vzdálená vnitřní bytost.  
@@ -19,6 +19,6 @@ Proto se říká, že bohové nikdy neumírají.
 Proto bohové nemají tělo a duši,  
 ale jen tělo a jsou dokonalí.  
 Právě tělo je jim duší  
-a mají vědomí ve vlastním božském těle._
+a mají vědomí ve vlastním božském těle.
 
 </section>

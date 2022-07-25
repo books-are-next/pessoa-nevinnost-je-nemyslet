@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_V noci najednou procitnu  
+V noci najednou procitnu  
 a moje hodiny zaujmou prostor noci.  
 Nevnímám přírodu zvenku.  
 Můj pokoj je cosi tmavého s bělavými stěnami.  
@@ -19,6 +19,6 @@ protože jediné, co mé hodiny představují či znamenají,
 když svou malostí zaplňují nezměrnou noc,  
 je divný pocit, že zaplní nezměrnou noc,  
 a ten pocit je divný, protože tu noc nezaplní  
-svou malostí._
+svou malostí.
 
 </section>

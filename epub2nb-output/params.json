@@ -27,7 +27,7 @@
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -143,7 +143,7 @@
             "xhtml": "nevinnost_je_nemyslet_009.xhtml",
             "id": 8,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -794,7 +794,7 @@
             "xhtml": "nevinnost_je_nemyslet_059.xhtml",
             "id": 58,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -912,7 +912,7 @@
             "xhtml": "nevinnost_je_nemyslet_068.xhtml",
             "id": 67,
             "role": "chapter",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -955,8 +955,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Mezi tím, co vidím z jedné a z druhé strany krajiny,"
+                "title": "Mezi tím, co vidím z jedné a z druhé strany krajiny,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_072.md",
@@ -968,8 +968,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Špinavé cizí dítě hrající si u mých dveří,"
+                "title": "Špinavé cizí dítě hrající si u mých dveří,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_073.md",
@@ -981,8 +981,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pravda, lež, jistota, nejistota…"
+                "title": "Pravda, lež, jistota, nejistota…",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_074.md",
@@ -994,8 +994,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Hlasitý dívčí smích se ozývá odněkud z cesty."
+                "title": "Hlasitý dívčí smích se ozývá odněkud z cesty.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_075.md",
@@ -1007,8 +1007,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Svatojánská noc kdesi za zdí mého dvorku."
+                "title": "Svatojánská noc kdesi za zdí mého dvorku.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_076.md",
@@ -1020,8 +1020,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Včera zase ten hlasatel svých pravd"
+                "title": "Včera zase ten hlasatel svých pravd",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_077.md",
@@ -1033,8 +1033,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ty, mystiku, vidíš význam ve všech věcech."
+                "title": "Ty, mystiku, vidíš význam ve všech věcech.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_078.md",
@@ -1046,8 +1046,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —"
+                "title": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_079.md",
@@ -1059,8 +1059,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Říkáš mi: ty jsi něco víc"
+                "title": "Říkáš mi: ty jsi něco víc",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_080.md",
@@ -1072,8 +1072,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Úžasná realita věcí"
+                "title": "Úžasná realita věcí",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_081.md",
@@ -1085,8 +1085,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Až se znovu navrátí jaro,"
+                "title": "Až se znovu navrátí jaro,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_082.md",
@@ -1098,8 +1098,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zemřu-li mlád"
+                "title": "Zemřu-li mlád",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_083.md",
@@ -1111,8 +1111,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Až přijde jaro"
+                "title": "Až přijde jaro",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_084.md",
@@ -1124,8 +1124,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jestliže až zemřu, budete chtít napsat můj životopis,"
+                "title": "Jestliže až zemřu, budete chtít napsat můj životopis,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_085.md",
@@ -1137,8 +1137,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kdesi za zatáčkou cesty"
+                "title": "Kdesi za zatáčkou cesty",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_086.md",
@@ -1150,8 +1150,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nevím, jak se západ slunce může zdát smutný."
+                "title": "Nevím, jak se západ slunce může zdát smutný.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_087.md",
@@ -1163,8 +1163,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Deštivý den je stejně krásný jako den plný slunce."
+                "title": "Deštivý den je stejně krásný jako den plný slunce.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_088.md",
@@ -1176,8 +1176,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Až na mém hrobě vyroste tráva,"
+                "title": "Až na mém hrobě vyroste tráva,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_089.md",
@@ -1189,8 +1189,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Je noc. A je velice temná. Ve vzdáleném domě"
+                "title": "Je noc. A je velice temná. Ve vzdáleném domě",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_090.md",
@@ -1202,8 +1202,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dnes mi kdosi četl svatého Františka z Assisi."
+                "title": "Dnes mi kdosi četl svatého Františka z Assisi.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_091.md",
@@ -1215,8 +1215,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Chtěl bych mít tolik času a klidu,"
+                "title": "Chtěl bych mít tolik času a klidu,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_092.md",
@@ -1228,8 +1228,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Snáší se noc, horko polevuje."
+                "title": "Snáší se noc, horko polevuje.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_093.md",
@@ -1241,8 +1241,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jsem nemocný. Myšlenky se mi začínají plést."
+                "title": "Jsem nemocný. Myšlenky se mi začínají plést.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_094.md",
@@ -1254,8 +1254,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Přijmi vesmír,"
+                "title": "Přijmi vesmír,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_095.md",
@@ -1267,8 +1267,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Je-li v zimním období zima, beru to jako něco příjemného,"
+                "title": "Je-li v zimním období zima, beru to jako něco příjemného,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_096.md",
@@ -1280,8 +1280,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ať už je středem světa cokoli,"
+                "title": "Ať už je středem světa cokoli,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_097.md",
@@ -1293,8 +1293,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Je mi to jedno."
+                "title": "Je mi to jedno.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_098.md",
@@ -1306,8 +1306,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Válka, jež svými vojsky sužuje svět,"
+                "title": "Válka, jež svými vojsky sužuje svět,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_099.md",
@@ -1319,8 +1319,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ze všemožných názorů o přírodě"
+                "title": "Ze všemožných názorů o přírodě",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_100.md",
@@ -1332,8 +1332,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Lodi, jež odplouváš do dáli,"
+                "title": "Lodi, jež odplouváš do dáli,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_101.md",
@@ -1345,8 +1345,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ponenáhlu šíří se krajina a zlátne."
+                "title": "Ponenáhlu šíří se krajina a zlátne.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_102.md",
@@ -1358,8 +1358,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Poslední hvězdo mizící před svítáním,"
+                "title": "Poslední hvězdo mizící před svítáním,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_103.md",
@@ -1371,8 +1371,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Kdosi slyšel mé verše a řekl: co je na tom nového?"
+                "title": "Kdosi slyšel mé verše a řekl: co je na tom nového?",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_104.md",
@@ -1384,8 +1384,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ano: existuji uvnitř svého těla."
+                "title": "Ano: existuji uvnitř svého těla.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_105.md",
@@ -1397,8 +1397,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zeleň modrého nebe, dřív než vyjde slunce,"
+                "title": "Zeleň modrého nebe, dřív než vyjde slunce,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_106.md",
@@ -1410,8 +1410,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jako dítě, dřív než je druzí naučí být velké,"
+                "title": "Jako dítě, dřív než je druzí naučí být velké,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_107.md",
@@ -1423,8 +1423,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nevím, co je to znát se. Nevidím dovnitř."
+                "title": "Nevím, co je to znát se. Nevidím dovnitř.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_108.md",
@@ -1436,8 +1436,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Vlastenec? Ne: jen Portugalec."
+                "title": "Vlastenec? Ne: jen Portugalec.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_109.md",
@@ -1449,8 +1449,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Natáhnu se do trávy"
+                "title": "Natáhnu se do trávy",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_110.md",
@@ -1462,8 +1462,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Promlouvali ke mně o lidech, o lidstvu,"
+                "title": "Promlouvali ke mně o lidech, o lidstvu,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_111.md",
@@ -1475,8 +1475,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nikdy jsem se nesnažil žít svůj život."
+                "title": "Nikdy jsem se nesnažil žít svůj život.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_112.md",
@@ -1488,8 +1488,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Žij, pravíš, v přítomnosti;"
+                "title": "Žij, pravíš, v přítomnosti;",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_113.md",
@@ -1501,8 +1501,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Prý v každé věci dlí nějaká skrytá věc."
+                "title": "Prý v každé věci dlí nějaká skrytá věc.",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_114.md",
@@ -1514,8 +1514,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Sníh položil na vše tichou pokrývku"
+                "title": "Sníh položil na vše tichou pokrývku",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_115.md",
@@ -1527,8 +1527,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dnes ráno jsem si vyšel časně,"
+                "title": "Dnes ráno jsem si vyšel časně,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_116.md",
@@ -1540,8 +1540,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "První předzvěst pozítřejší bouřky,"
+                "title": "První předzvěst pozítřejší bouřky,",
+                "children": []
               },
               {
                 "filename": "nevinnost_je_nemyslet_117.md",
@@ -1589,7 +1589,7 @@
             "xhtml": "nevinnost_je_nemyslet_120.xhtml",
             "id": 119,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -2535,6 +2535,6 @@
       "user": "books-are-next",
       "repo": "pessoa-nevinnost-je-nemyslet"
     },
-    "generatedAt": 1658752478055
+    "generatedAt": 1658753096029
   }
 }

@@ -8,34 +8,34 @@ contentType: poetry
 
 Jestliže až zemřu, budete chtít napsat můj životopis,
 
-_nic není snadnějšího.  
+nic není snadnějšího.  
 Jsou v něm jen dvě data — mého narození a mé smrti.  
-Mezi tím jsou všechny dny mé._
+Mezi tím jsou všechny dny mé.
 
 </section>
 
 <section>
 
-_Je lehké mě definovat.  
+Je lehké mě definovat.  
 Díval jsem se jako divý.  
 Miloval jsem věci beze vší sentimentality.  
 Nikdy jsem netoužil po ničem, co bych nemohl uskutečnit, protože jsem neoslepl.  
-Ba i sluch byl pro mě vždy jen doprovodem zraku._
+Ba i sluch byl pro mě vždy jen doprovodem zraku.
 
 </section>
 
 <section>
 
-_Pochopil jsem, že věci jsou skutečné a vzájemně odlišné;  
+Pochopil jsem, že věci jsou skutečné a vzájemně odlišné;  
 pochopil jsem to očima, nikoli myšlením.  
-Pochopit to myšlením by znamenalo shledávat je ;všechny stejné._
+Pochopit to myšlením by znamenalo shledávat je ;všechny stejné.
 
 </section>
 
 <section>
 
-_Jednou na mě přišlo spaní jako na každé dítě.  
+Jednou na mě přišlo spaní jako na každé dítě.  
 Zavřel jsem oči a usnul.  
-Kromě toho jsem byl jediný básník přírody._
+Kromě toho jsem byl jediný básník přírody.
 
 </section>

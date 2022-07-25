@@ -5,35 +5,35 @@ contentType: poetry
 
 <section>
 
-_„Hej, pastýři, co své stádo  
+„Hej, pastýři, co své stádo  
 tamhle u cesty popásáš,  
-cože ti říká vítr, když vane?“_
+cože ti říká vítr, když vane?“
 
 </section>
 
 <section>
 
-_„Že prý je vítr a že vane  
+„Že prý je vítr a že vane  
 a že tak vždycky vál už dřív  
 a povane si pořád stejně.  
-Copak zas tobě povídá?“_
+Copak zas tobě povídá?“
 
 </section>
 
 <section>
 
-_„Mnohem více, než mi říkáš,  
+„Mnohem více, než mi říkáš,  
 o spoustě věcí povídá.  
 O paměti, o stýskání,  
-o tom, co nikdy nebylo.“_
+o tom, co nikdy nebylo.“
 
 </section>
 
 <section>
 
-_„Tys přece neslyšel vát vítr.  
+„Tys přece neslyšel vát vítr.  
 Vítr jen o větru mluvívá.  
 Lež je to, cos od něj slyšel,  
-tu lež sám v sobě ukrýváš.“_
+tu lež sám v sobě ukrýváš.“
 
 </section>

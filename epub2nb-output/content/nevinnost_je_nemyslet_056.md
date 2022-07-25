@@ -5,40 +5,40 @@ contentType: poetry
 
 <section>
 
-_V jeden přespříliš jasný den,  
+V jeden přespříliš jasný den,  
 v den, kdy by člověk chtěl být tak upracovaný,  
 aby nepracoval vůbec,  
 jsem jako cestu mezi stromy zahlédl,  
 co možná je to Veliké tajemství,  
-ono Velké mysterium, o němž mluví falešní básníci._
+ono Velké mysterium, o němž mluví falešní básníci.
 
 </section>
 
 <section>
 
-_Viděl jsem, že není příroda,  
+Viděl jsem, že není příroda,  
 že příroda neexistuje,  
 že jsou hory, údolí, pláně,  
 že jsou stromy, květy, trávy,  
 že jsou řeky a kameny,  
 ale že není celek, k němuž by to patřilo,  
 že nějaký skutečný, opravdový souhrn  
-je naše chorobná představa._
+je naše chorobná představa.
 
 </section>
 
 <section>
 
-_Příroda jsou části bez celku.  
-Takové snad je tajemství, o němž se mluví._
+Příroda jsou části bez celku.  
+Takové snad je tajemství, o němž se mluví.
 
 </section>
 
 <section>
 
-_A to se mi bez úvah či váhání  
+A to se mi bez úvah či váhání  
 zdálo být tou pravdou,  
 již všichni hledají a nenalézají,  
-a jenom já bez hledání našel._
+a jenom já bez hledání našel.
 
 </section>

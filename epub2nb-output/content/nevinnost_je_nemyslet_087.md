@@ -8,6 +8,6 @@ contentType: poetry
 
 Deštivý den je stejně krásný jako den plný slunce.
 
-_Oba existují, každý takový, jaký je._
+Oba existují, každý takový, jaký je.
 
 </section>

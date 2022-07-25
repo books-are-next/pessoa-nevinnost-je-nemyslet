@@ -5,27 +5,27 @@ contentType: poetry
 
 <section>
 
-_Ach, kéž by můj život byl vůz s párem volů,  
+Ach, kéž by můj život byl vůz s párem volů,  
 co ráno raníčko skřípe známou cestou,  
 kudy jede vzhůru, vrací se zas dolů  
-pozdě navečer tou samou cestou._
+pozdě navečer tou samou cestou.
 
 </section>
 
 <section>
 
-_Na co mít naděje — stačila by kola…  
+Na co mít naděje — stačila by kola…  
 Neměl bych ve stáří vrásky a šediny…  
 Kdybych už nesloužil, vzali by mi kola,  
-skončil bych rozbitý v rokli u dědiny._
+skončil bych rozbitý v rokli u dědiny.
 
 </section>
 
 <section>
 
-_Snad by mě změnili na něco jiného  
+Snad by mě změnili na něco jiného  
 a já bych nevěděl, jakže to navlékli…  
 Já ale nejsem vůz, jsem něco jiného,  
-co ale jiného, to by mi neřekli._
+co ale jiného, to by mi neřekli.
 
 </section>
