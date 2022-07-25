@@ -1,6 +1,6 @@
 ---
 title: XXVI\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

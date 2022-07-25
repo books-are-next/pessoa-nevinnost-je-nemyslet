@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Až na mém hrobě vyroste tráva,
+contentType: poetry
 ---
 
 <section>
-
-Až na mém hrobě vyroste tráva,
 
 _vězte, že na mě máte nadobro zapomenout.  
 Příroda nikdy nevzpomíná, a proto je krásná.  

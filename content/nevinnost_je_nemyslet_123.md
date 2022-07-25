@@ -1,6 +1,6 @@
 ---
 title: Květinové dítě Alberto Caeiro?
-contentType: prose
+contentType: poetry
 ---
 
 <section>

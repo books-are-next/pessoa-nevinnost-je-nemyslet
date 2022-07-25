@@ -1,6 +1,6 @@
 ---
 title: Předposlední báseň
-contentType: prose
+contentType: poetry
 ---
 
 <section>

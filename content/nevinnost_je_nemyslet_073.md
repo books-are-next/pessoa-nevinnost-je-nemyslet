@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Pravda, lež, jistota, nejistota…
+contentType: poetry
 ---
 
 <section>
-
-Pravda, lež, jistota, nejistota…
 
 _I slepec tam na cestě tahle slova zná.  
 Sedím na horním schodě a ruce mám sepjaté  

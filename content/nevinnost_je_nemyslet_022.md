@@ -1,6 +1,6 @@
 ---
 title: XIII\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

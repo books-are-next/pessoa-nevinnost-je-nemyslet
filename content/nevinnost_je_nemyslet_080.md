@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Úžasná realita věcí
+contentType: poetry
 ---
 
 <section>
-
-Úžasná realita věcí
 
 _je můj každodenní objev.  
 Každá věc je, co je,  

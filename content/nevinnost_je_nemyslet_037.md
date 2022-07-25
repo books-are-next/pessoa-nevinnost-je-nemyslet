@@ -1,6 +1,6 @@
 ---
 title: XXVIII\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

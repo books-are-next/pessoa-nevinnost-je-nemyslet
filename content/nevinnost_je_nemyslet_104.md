@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: 'Ano: existuji uvnitř svého těla\.'
+contentType: poetry
 ---
 
 <section>
-
-Ano: existuji uvnitř svého těla.
 
 _Nemám slunce či měsíc v kapse.  
 Nechci dobývat světy, protože jsem špatně spal,  

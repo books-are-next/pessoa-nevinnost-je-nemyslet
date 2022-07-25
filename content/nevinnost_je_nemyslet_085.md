@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Kdesi za zatáčkou cesty
+contentType: poetry
 ---
 
 <section>
-
-Kdesi za zatáčkou cesty
 
 _je možná studna, možná hrad,  
 a možná jenom cesta dál.  

@@ -1,6 +1,6 @@
 ---
 title: ROZPTÝLENÉ BÁSNĚ
-contentType: prose
+contentType: poetry
 ---
 
 

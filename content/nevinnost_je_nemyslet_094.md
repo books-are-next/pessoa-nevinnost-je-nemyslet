@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Přijmi vesmír,
+contentType: poetry
 ---
 
 <section>
-
-Přijmi vesmír,
 
 _jak ti jej dali bohové.  
 Kdyby ti bohové chtěli dát jiný,  

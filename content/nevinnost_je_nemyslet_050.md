@@ -1,6 +1,6 @@
 ---
 title: XLI\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

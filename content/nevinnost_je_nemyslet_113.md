@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Prý v každé věci dlí nějaká skrytá věc\.
+contentType: poetry
 ---
 
 <section>
-
-Prý v každé věci dlí nějaká skrytá věc.
 
 _Ano, ta věc, jež v ní dlí, aniž se skrývá,  
 je ona sama._

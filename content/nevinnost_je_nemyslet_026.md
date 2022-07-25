@@ -1,6 +1,6 @@
 ---
 title: XVII\. Salát
-contentType: prose
+contentType: poetry
 ---
 
 <section>

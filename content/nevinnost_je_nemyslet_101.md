@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Ponenáhlu šíří se krajina a\_zlátne\\."
+contentType: poetry
 ---
 
 <section>
-
-Ponenáhlu šíří se krajina a zlátne.
 
 _Úsvit bloudí nerovnostmi pláně.  
 Jsem lhostejný k podívané, již vidím: vidím ji.  

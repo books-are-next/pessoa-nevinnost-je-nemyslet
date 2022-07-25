@@ -1,6 +1,6 @@
 ---
 title: Álvaro de Campos Poznámky na paměť mého mistra Caeira
-contentType: prose
+contentType: poetry
 ---
 
 <section>

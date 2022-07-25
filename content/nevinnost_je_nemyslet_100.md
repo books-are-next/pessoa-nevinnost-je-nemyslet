@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Lodi, jež odplouváš do dáli,
+contentType: poetry
 ---
 
 <section>
-
-Lodi, jež odplouváš do dáli,
 
 _proč se mi na rozdíl od druhých  
 po tobě nestýská, jakmile zmizíš?  

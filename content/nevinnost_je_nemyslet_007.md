@@ -1,6 +1,6 @@
 ---
 title: Předmluva Ricarda Reise
-contentType: prose
+contentType: poetry
 ---
 
 <section>

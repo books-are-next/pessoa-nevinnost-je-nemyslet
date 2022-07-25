@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Je mi to jedno\.
+contentType: poetry
 ---
 
 <section>
-
-Je mi to jedno.
 
 _Co je mi jedno? Nevím: je mi to jedno._
 

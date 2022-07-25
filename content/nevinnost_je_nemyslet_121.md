@@ -1,6 +1,6 @@
 ---
 title: Pessoův dopis Armandu Cortes-Rodriguesovi
-contentType: prose
+contentType: poetry
 ---
 
 <section>

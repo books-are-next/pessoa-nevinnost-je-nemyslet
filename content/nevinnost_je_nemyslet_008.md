@@ -1,6 +1,6 @@
 ---
 title: Úvod
-contentType: prose
+contentType: poetry
 ---
 
 <section>

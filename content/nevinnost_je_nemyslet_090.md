@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Dnes mi kdosi četl svatého Františka z\_Assisi\\."
+contentType: poetry
 ---
 
 <section>
-
-Dnes mi kdosi četl svatého Františka z Assisi.
 
 _Četl mi a já žasl._
 

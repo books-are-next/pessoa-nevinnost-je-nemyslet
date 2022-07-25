@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Natáhnu se do trávy
+contentType: poetry
 ---
 
 <section>
-
-Natáhnu se do trávy
 
 _a zapomenu na všecko, co mě učili.  
 To, co mě učili, mě nikdy nezahřálo ani nezchladilo.  
