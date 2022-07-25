@@ -1,9 +1,12 @@
 ---
-title: Snáší se noc, horko polevuje\.
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Snáší se noc, horko polevuje.
 
 _Hlavu mám jasnou, jako bych nikdy nemyslel  
 a měl kořen, přímé spojení se zemí,  

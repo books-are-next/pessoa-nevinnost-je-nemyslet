@@ -1,9 +1,12 @@
 ---
-title: Svatojánská noc kdesi za zdí mého dvorku\.
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Svatojánská noc kdesi za zdí mého dvorku.
 
 _Na druhé straně já bez svatojánské noci.  
 Protože svatý Jan je tam, kde se slaví.  

@@ -1,9 +1,12 @@
 ---
-title: Jestliže až zemřu, budete chtít napsat můj životopis,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jestliže až zemřu, budete chtít napsat můj životopis,
 
 _nic není snadnějšího.  
 Jsou v něm jen dvě data — mého narození a mé smrti.  

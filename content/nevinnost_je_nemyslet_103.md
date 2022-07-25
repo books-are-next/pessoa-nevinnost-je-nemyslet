@@ -1,9 +1,12 @@
 ---
-title: "Kdosi slyšel mé verše a\_řekl: co je na tom nového?"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Kdosi slyšel mé verše a řekl: co je na tom nového?
 
 _Všichni vědí, že květ je květ a strom je strom.  
 Já však odvětil: kdepak všichni, nikdo.  

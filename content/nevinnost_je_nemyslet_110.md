@@ -1,9 +1,12 @@
 ---
-title: "Promlouvali ke mně o\_lidech, o\_lidstvu,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Promlouvali ke mně o lidech, o lidstvu,
 
 _ale já lidi ani lidstvo nikdy neviděl.  
 Viděl jsem různé lidi od sebe neuvěřitelně odlišné  

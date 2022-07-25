@@ -1,9 +1,12 @@
 ---
-title: Jsem nemocný\. Myšlenky se mi začínají plést\.
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jsem nemocný. Myšlenky se mi začínají plést.
 
 _Mé tělo však, dotýkajíc se věcí, do nich vstupuje.  
 Hmatem se cítím součástí věcí  

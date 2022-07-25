@@ -1,9 +1,12 @@
 ---
-title: "Mezi tím, co vidím z\_jedné a\_z\_druhé strany krajiny,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Mezi tím, co vidím z jedné a z druhé strany krajiny,
 
 _prochází na okamžik postava muže.  
 Jeho kroky jdou s „ním“ v téže realitě,  

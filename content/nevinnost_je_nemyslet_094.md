@@ -1,9 +1,12 @@
 ---
-title: Přijmi vesmír,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Přijmi vesmír,
 
 _jak ti jej dali bohové.  
 Kdyby ti bohové chtěli dát jiný,  

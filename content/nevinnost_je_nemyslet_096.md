@@ -1,9 +1,12 @@
 ---
-title: Ať už je středem světa cokoli,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Ať už je středem světa cokoli,
 
 _dalo mi to vnější svět jako vzor reality,  
 a řeknu-li „to je reálné“, byť o citu,  

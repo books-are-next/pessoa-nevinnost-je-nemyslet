@@ -1,9 +1,12 @@
 ---
-title: Dnes ráno jsem si vyšel časně,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Dnes ráno jsem si vyšel časně,
 
 _neboť jsem procitl ještě časněji  
 a neměl, co by se mi chtělo dělat…_

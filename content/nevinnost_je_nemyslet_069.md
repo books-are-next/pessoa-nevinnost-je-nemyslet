@@ -1,9 +1,12 @@
 ---
-title: Nestačí otevřít okno,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Nestačí otevřít okno,
 
 _abychom viděli louky a řeku.  
 Ani nestačí nebýt slepý,  
