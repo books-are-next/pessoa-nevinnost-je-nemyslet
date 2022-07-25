@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Až se znovu navrátí jaro,
+_Až se znovu navrátí jaro,_
 
 možná už nebudu na světě.  
 Teď bych si rád myslel, že jaro je bytost,  

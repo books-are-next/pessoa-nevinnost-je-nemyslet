@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Deštivý den je stejně krásný jako den plný slunce.
+_Deštivý den je stejně krásný jako den plný slunce._
 
 Oba existují, každý takový, jaký je.
 

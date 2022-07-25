@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Zeleň modrého nebe, dřív než vyjde slunce,
+_Zeleň modrého nebe, dřív než vyjde slunce,_
 
 a bílá modř západu, kde zář slunce vymizela.
 

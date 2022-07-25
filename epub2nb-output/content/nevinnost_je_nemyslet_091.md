@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Chtěl bych mít tolik času a klidu,
+_Chtěl bych mít tolik času a klidu,_
 
 abych vůbec na nic nemyslel,  
 abych ani necítil, že žiju,  

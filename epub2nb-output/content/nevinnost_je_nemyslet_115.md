@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Dnes ráno jsem si vyšel časně,
+_Dnes ráno jsem si vyšel časně,_
 
 neboť jsem procitl ještě časněji  
 a neměl, co by se mi chtělo dělat…

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ze všemožných názorů o přírodě
+_Ze všemožných názorů o přírodě_
 
 nikdy nevyrostla ani travina, ani nevypučel květ.  
 Na veškeré vědění o věcech  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Mluvíš o civilizaci a že by neměla být,
+_Mluvíš o civilizaci a že by neměla být,_
 
 nebo že by neměla být taková.  
 Říkáš, že všichni lidé anebo většina z nich trpí  

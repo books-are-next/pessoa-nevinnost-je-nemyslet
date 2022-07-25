@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Poslední hvězdo mizící před svítáním,
+_Poslední hvězdo mizící před svítáním,_
 
 na tvém chvějivě bílém modrání spočinu klidným zrakem  
 a vidím tě nezávisle na sobě,  

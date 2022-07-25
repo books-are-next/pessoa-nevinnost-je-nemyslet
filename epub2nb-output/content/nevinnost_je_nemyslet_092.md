@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Snáší se noc, horko polevuje.
+_Snáší se noc, horko polevuje._
 
 Hlavu mám jasnou, jako bych nikdy nemyslel  
 a měl kořen, přímé spojení se zemí,  

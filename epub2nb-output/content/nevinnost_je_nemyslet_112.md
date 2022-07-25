@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Žij, pravíš, v přítomnosti;
+_Žij, pravíš, v přítomnosti;_
 
 žij pouze v přítomnosti.
 

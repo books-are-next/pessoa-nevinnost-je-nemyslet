@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Zemřu-li mlád
+_Zemřu-li mlád_
 
 a nestačím už vydat nějakou knihu,  
 takže neuvidím své verše vytištěné,  

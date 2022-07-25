@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-První předzvěst pozítřejší bouřky,
+_První předzvěst pozítřejší bouřky,_
 
 první bílá oblaka nízko plující po matné obloze.  
 Pozítřejší bouřky?  

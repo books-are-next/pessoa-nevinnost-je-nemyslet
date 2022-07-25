@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Válka, jež svými vojsky sužuje svět,
+_Válka, jež svými vojsky sužuje svět,_
 
 je dokonalý příklad omylu filozofie.
 

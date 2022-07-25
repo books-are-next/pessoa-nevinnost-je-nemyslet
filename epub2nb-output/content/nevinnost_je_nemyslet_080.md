@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Úžasná realita věcí
+_Úžasná realita věcí_
 
 je můj každodenní objev.  
 Každá věc je, co je,  

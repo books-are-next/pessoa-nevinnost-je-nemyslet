@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jestliže až zemřu, budete chtít napsat můj životopis,
+_Jestliže až zemřu, budete chtít napsat můj životopis,_
 
 nic není snadnějšího.  
 Jsou v něm jen dvě data — mého narození a mé smrti.  

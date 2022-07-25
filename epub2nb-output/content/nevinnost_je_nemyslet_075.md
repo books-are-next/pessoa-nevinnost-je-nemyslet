@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Svatojánská noc kdesi za zdí mého dvorku.
+_Svatojánská noc kdesi za zdí mého dvorku._
 
 Na druhé straně já bez svatojánské noci.  
 Protože svatý Jan je tam, kde se slaví.  

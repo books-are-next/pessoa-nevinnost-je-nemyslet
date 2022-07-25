@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ponenáhlu šíří se krajina a zlátne.
+_Ponenáhlu šíří se krajina a zlátne._
 
 Úsvit bloudí nerovnostmi pláně.  
 Jsem lhostejný k podívané, již vidím: vidím ji.  

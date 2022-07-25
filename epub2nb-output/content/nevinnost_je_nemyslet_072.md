@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Špinavé cizí dítě hrající si u mých dveří,
+_Špinavé cizí dítě hrající si u mých dveří,_
 
 neptám se, neseš-li mi poselství symbolů.  
 Bavíš mě, protože jsem tě nikdy dřív neviděl,  

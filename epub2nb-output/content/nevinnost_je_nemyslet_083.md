@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Až přijde jaro
+_Až přijde jaro_
 
 a já snad budu po smrti,  
 stejně rozkvetou květy  

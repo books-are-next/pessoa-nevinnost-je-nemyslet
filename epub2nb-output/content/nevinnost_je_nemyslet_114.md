@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Sníh položil na vše tichou pokrývku
+_Sníh položil na vše tichou pokrývku_
 
 a vycítit lze jen to, co se děje v domě.  
 Zachumlán do deky ani na myšlení nepomyslím.  
