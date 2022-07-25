@@ -27,7 +27,7 @@
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nPRVNI_VERS_DO_OBSAHU",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -2536,6 +2536,6 @@
       "user": "books-are-next",
       "repo": "pessoa-nevinnost-je-nemyslet"
     },
-    "generatedAt": 1658752478055
+    "generatedAt": 1658753096029
   }
 }
