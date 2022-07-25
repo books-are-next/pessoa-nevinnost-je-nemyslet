@@ -8,7 +8,7 @@ contentType: poetry
 
 Je noc. A je velice temná. Ve vzdáleném domě
 
-_září v okně světlo.  
+září v okně světlo.  
 Vidím je a cítím se lidský od hlavy k patě.  
 Celý život cizího člověka, jenž tam bydlí,  
 mě kupodivu láká jen světlem viděným zdálky.  
@@ -24,6 +24,6 @@ Ten člověk a jeho rodina jsou reální z druhé strany okna.
 Já jsem na téhle straně, hodně daleko.  
 Světlo zhaslo.  
 Co je mi po tom, že ten člověk existuje dál?  
-Je to jen on, kdo existuje dál._
+Je to jen on, kdo existuje dál.
 
 </section>

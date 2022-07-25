@@ -8,7 +8,7 @@ contentType: poetry
 
 První předzvěst pozítřejší bouřky,
 
-_první bílá oblaka nízko plující po matné obloze.  
+první bílá oblaka nízko plující po matné obloze.  
 Pozítřejší bouřky?  
 Jsem si jist, ale jistota je lež.  
 Být si jist je nevidět.  
@@ -25,6 +25,6 @@ Dobře vím, že se ta bouřka nestrhne z mých očí,
 nebudu-li však na světě, svět bude jiný —  
 já budu chybět —  
 a ta bouřka se strhne v jiném světě a nebude stejná.  
-Ať tak či onak, strhne se ta, která se strhne, až se strhne._
+Ať tak či onak, strhne se ta, která se strhne, až se strhne.
 
 </section>

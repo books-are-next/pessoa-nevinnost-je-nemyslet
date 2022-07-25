@@ -302,7 +302,7 @@ tocBase:
           - link: nevinnost_je_nemyslet_058.html
             title: XLIX.
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: nevinnost_je_nemyslet_059.html
         title: ZAMILOVANÝ PASTÝŘ
         hiddenTitle: false
@@ -331,7 +331,7 @@ tocBase:
           - link: nevinnost_je_nemyslet_067.html
             title: VIII.
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: nevinnost_je_nemyslet_068.html
         title: ROZPTÝLENÉ BÁSNĚ
         hiddenTitle: false
@@ -486,7 +486,7 @@ tocBase:
           - link: nevinnost_je_nemyslet_118.html
             title: (Nadiktováno básníkem v den jeho smrti)
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: nevinnost_je_nemyslet_119.html
         title: Álvaro de Campos Poznámky na paměť mého mistra Caeira
         hiddenTitle: false
@@ -500,7 +500,7 @@ tocBase:
           - link: nevinnost_je_nemyslet_122.html
             title: Pessoův dopis Adolfu Casaisu Monteirovi
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: nevinnost_je_nemyslet_123.html
         title: Květinové dítě Alberto Caeiro?
         hiddenTitle: false

@@ -5,30 +5,30 @@ contentType: poetry
 
 <section>
 
-_A jsou básníci, kteří jsou umělci  
+A jsou básníci, kteří jsou umělci  
 a otesávají své verše  
-jako tesař prkna…!_
+jako tesař prkna…!
 
 </section>
 
 <section>
 
-_Jak smutné je neumět kvést!  
+Jak smutné je neumět kvést!  
 Muset klást verš k verši, jako když se staví zeď,  
-sledovat, je-li to dobře, a když není, vzít zpět…!_
+sledovat, je-li to dobře, a když není, vzít zpět…!
 
 </section>
 
 <section>
 
-_Vždyť celá Země je jediný umělecký dům,  
-mění se a je stále dobrá a stále táž._
+Vždyť celá Země je jediný umělecký dům,  
+mění se a je stále dobrá a stále táž.
 
 </section>
 
 <section>
 
-_Myslím na to, ne jako bych myslel, ale jako bych nemyslel,  
+Myslím na to, ne jako bych myslel, ale jako bych nemyslel,  
 hledím na květy a usmívám se…  
 Nevím, jestli mi rozumějí,  
 ani jestli já rozumím jim,  
@@ -37,6 +37,6 @@ a v našem společném božství,
 že tu tak svolně žijeme na Zemi,  
 spokojeni v náručí ročních období,  
 uspáváni zpěvem větru  
-do spánku beze snů._
+do spánku beze snů.
 
 </section>

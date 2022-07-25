@@ -8,15 +8,15 @@ contentType: poetry
 
 Přijmi vesmír,
 
-_jak ti jej dali bohové.  
+jak ti jej dali bohové.  
 Kdyby ti bohové chtěli dát jiný,  
-byli by ti ho dali._
+byli by ti ho dali.
 
 </section>
 
 <section>
 
-_Jsou-li jiné hmoty a jiné světy —  
-ať jsou._
+Jsou-li jiné hmoty a jiné světy —  
+ať jsou.
 
 </section>

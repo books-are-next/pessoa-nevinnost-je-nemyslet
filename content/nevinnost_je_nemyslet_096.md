@@ -8,16 +8,16 @@ contentType: poetry
 
 Ať už je středem světa cokoli,
 
-_dalo mi to vnější svět jako vzor reality,  
+dalo mi to vnější svět jako vzor reality,  
 a řeknu-li „to je reálné“, byť o citu,  
 vidím to bezděky v nějakém vnějším prostoru,  
-vidím to jaksi stranou a jako sobě cizí._
+vidím to jaksi stranou a jako sobě cizí.
 
 </section>
 
 <section>
 
-_Být reálný znamená nebýt uvnitř sebe.  
+Být reálný znamená nebýt uvnitř sebe.  
 O své osobě vevnitř nemám představu reality.  
 Vím, že svět existuje, ale nevím, jestli existuji.  
 Jistější mi připadá existence mého bílého domku  
@@ -29,13 +29,13 @@ může se dotýkat druhých,
 může si sednout a stát,  
 ale má duše může být definována jen vnějšími výrazy.  
 Existuje pro mne — ve chvílích, kdy soudím, že opravdu existuje —  
-jakousi půjčkou od vnější reality světa._
+jakousi půjčkou od vnější reality světa.
 
 </section>
 
 <section>
 
-_Je-li duše reálnější  
+Je-li duše reálnější  
 než vnější svět, jak pravíš ty, filozofe,  
 proč mi byl vnější svět dán jako příklad reality?  
 Je-li jistější, že spíš cítím,  
@@ -49,51 +49,51 @@ a kde se shodujeme,
 je-li snad ten svět omyl a právě já mám pravdu?  
 Je-li svět omyl, je omylem všech lidí.  
 A každý z nás je pouze omyl každého z nás.  
-Tak či onak, svět je jistější._
+Tak či onak, svět je jistější.
 
 </section>
 
 <section>
 
-_Proč však se sám sebe ptám, ne-li proto, že stůňu?_
+Proč však se sám sebe ptám, ne-li proto, že stůňu?
 
 </section>
 
 <section>
 
-_Ve správných dnech, ve vnějších dnech svého života,  
+Ve správných dnech, ve vnějších dnech svého života,  
 ve svých dnech dokonale přirozené jasnozřivosti,  
 cítím, aniž cítím, že cítím,  
 vidím, aniž vím, že vidím,  
 a nikdy není vesmír tak reálný,  
 nikdy nebývá vesmír (nikoli blízko či daleko ode mě,  
-ale) tak vznešeně ne-můj._
+ale) tak vznešeně ne-můj.
 
 </section>
 
 <section>
 
-_Když řeknu „to je zřejmé“, chci snad říct „jen já to zřím“?  
+Když řeknu „to je zřejmé“, chci snad říct „jen já to zřím“?  
 Když řeknu „to je pravda“, chci snad říct „to je můj názor“?  
-Když řeknu „tam to je“, chci snad říct „není to tam“?_
+Když řeknu „tam to je“, chci snad říct „není to tam“?
 
 </section>
 
 <section>
 
-_A je-li to tak v životě, proč to má být jinak ve filozofii?  
+A je-li to tak v životě, proč to má být jinak ve filozofii?  
 Dřív žijeme, než filozofujeme, dřív existujeme, než to víme,  
 a ten první fakt si zaslouží přinejmenším přednost uznání.  
 Ano, dříve než jsme vnitřek, jsme vnějšek.  
-Proto jsme esenciálně vnějšek._
+Proto jsme esenciálně vnějšek.
 
 </section>
 
 <section>
 
-_Pravíš, chorý filozofe, zkrátka filozofe, že to je materialismus.  
+Pravíš, chorý filozofe, zkrátka filozofe, že to je materialismus.  
 Jak to ale může být materialismus, je-li materialismus filozofie  
 a nějaká filozofie, přinejmenším jakožto moje, by byla mou filozofií,  
-a to ani není moje, ba ani nejsem já?_
+a to ani není moje, ba ani nejsem já?
 
 </section>

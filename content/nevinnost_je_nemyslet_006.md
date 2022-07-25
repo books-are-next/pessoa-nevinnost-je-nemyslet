@@ -6,9 +6,9 @@ contentType: poetry
 
 <section>
 
-_Caiero byl anděl strážný, jehož básník vzýval,  
+Caiero byl anděl strážný, jehož básník vzýval,  
 aby se zbavil šílenství — Fausta,  
-šílenství poznat absolutno._
+šílenství poznat absolutno.
 
 _Eduardo Lourenço:  
 Poesia e filosofia em Pessoa_

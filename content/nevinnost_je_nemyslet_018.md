@@ -5,29 +5,29 @@ contentType: poetry
 
 <section>
 
-_Jsem hlídač stád.  
+Jsem hlídač stád.  
 Stádo jsou moje myšlenky  
 a všechny mé myšlenky jsou pocity.  
 Myslím očima i ušima  
 a rukama i nohama  
-a nosem i ústy._
+a nosem i ústy.
 
 </section>
 
 <section>
 
-_Myslit si květ je vidět a čichat jej  
-a jíst plod je znát jeho smysl._
+Myslit si květ je vidět a čichat jej  
+a jíst plod je znát jeho smysl.
 
 </section>
 
 <section>
 
-_Proto když někdy za horkého dne  
+Proto když někdy za horkého dne  
 z něj samým blahem zesmutním  
 a s horkýma očima zavřenýma  
 natáhnu se v trávě,  
 tu cítím celé tělo natažené v realitě,  
-znám pravdu a jsem šťasten._
+znám pravdu a jsem šťasten.
 
 </section>

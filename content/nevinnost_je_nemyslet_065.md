@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Celou noc beze spánku jsem bez prostoru viděl její postavu  
+Celou noc beze spánku jsem bez prostoru viděl její postavu  
 a viděl ji pořád jinou, než ji potkávám.  
 Chci se rozmyslet, jaká je, když se mnou mluví,  
 a v každé té myšlence se mění věrna sobě.  
@@ -19,6 +19,6 @@ abych ji pak nemusel opouštět.
 A radši o ní přemýšlím, protože z ní, jaká je, mám trochu strach.  
 Sám nevím, co chci, ani nechci vědět, co chci.  
 Chci jen o ní přemýšlet.  
-Nic po nikom nechci, ani po ní, nechci než přemýšlet._
+Nic po nikom nechci, ani po ní, nechci než přemýšlet.
 
 </section>

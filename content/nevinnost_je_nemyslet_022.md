@@ -5,10 +5,10 @@ contentType: poetry
 
 <section>
 
-_Lehounce, lehce,  
+Lehounce, lehce,  
 přelehce vítr vane  
 a lehounce zase mizí.  
 Já sám nevím, co si myslím,  
-ani vědět netoužím._
+ani vědět netoužím.
 
 </section>

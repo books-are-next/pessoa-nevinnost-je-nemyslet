@@ -8,7 +8,7 @@ contentType: poetry
 
 Kdesi za zatáčkou cesty
 
-_je možná studna, možná hrad,  
+je možná studna, možná hrad,  
 a možná jenom cesta dál.  
 Nevím ani se neptám.  
 Když jdu po cestě před zatáčkou,  
@@ -24,6 +24,6 @@ To právě je cesta pro ně.
 Máme-li tam dojít my, dozvíme se vše, až tam dojdeme.  
 Zatím víme jen, že tam nejsme.  
 Tady je jenom cesta před zatáčkou, a před zatáčkou  
-je cesta bez nějaké zatáčky._
+je cesta bez nějaké zatáčky.
 
 </section>

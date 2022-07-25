@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Možná kdo umí vidět, nedokáže cítit  
+Možná kdo umí vidět, nedokáže cítit  
 a nezalíbí se, neboť v mnohém předchází mravy.  
 Ke všemu je třeba znát způsoby  
 a všechno má svůj způsob, ba i láska.  
@@ -19,17 +19,17 @@ Jako bych měl svěšenou hlavu,
 říkám si, a už ji zdvihám  
 a v zlatém slunci schnou kapky slz, jimž se nevyhnu.  
 Jak veliká jsou luka a jak malá láska!  
-Dívám se a zapomínám, jako svět pohřbívá a stromy shazují listí._
+Dívám se a zapomínám, jako svět pohřbívá a stromy shazují listí.
 
 </section>
 
 <section>
 
-_Neumím mluvit, protože teď cítím.  
+Neumím mluvit, protože teď cítím.  
 Poslouchám svůj hlas, jako by patřil jinému,  
 a můj hlas mluví o ní, jako by to mluvila ona.  
 Její vlasy jsou žloutnoucím obilím v jasném slunci,  
 a když mluví její ústa, říkají, co není ve slovech.  
-Usměje se a zuby jsou čisté jak oblázky v řece._
+Usměje se a zuby jsou čisté jak oblázky v řece.
 
 </section>

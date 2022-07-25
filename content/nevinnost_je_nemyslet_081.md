@@ -8,7 +8,7 @@ contentType: poetry
 
 Až se znovu navrátí jaro,
 
-_možná už nebudu na světě.  
+možná už nebudu na světě.  
 Teď bych si rád myslel, že jaro je bytost,  
 abych mohl věřit, že by plakalo,  
 kdyby tak přišlo o jediného přítele.  
@@ -17,6 +17,6 @@ jenom se to tak říká.
 Ba nevracejí se ani květy či zelené listy.  
 Jsou nové květy, nové zelené listy.  
 Jsou jiné vlídné dny.  
-Nic se nevrací, nic se neopakuje, protože vše je skutečné._
+Nic se nevrací, nic se neopakuje, protože vše je skutečné.
 
 </section>

@@ -5,32 +5,32 @@ contentType: poetry
 
 <section>
 
-_Vykloněn k večeru z okna  
+Vykloněn k večeru z okna  
 a vědom si úkosem luk před sebou  
 čtu, až mě z toho pálí oči,  
-Knihu Cesária Verdeho._
+Knihu Cesária Verdeho.
 
 </section>
 
 <section>
 
-_Je mi ho tolik líto! Byl to venkovan  
+Je mi ho tolik líto! Byl to venkovan  
 vězněný na svobodě městem.  
 Ale díval se přitom na domy  
 a rozhlížel se ulicemi  
 a všímal si lidí kolem,  
 tak jako hledíme na stromy  
 a zrakem sledujeme cestu, jíž se jde,  
-a všímáme si na lukách květin…_
+a všímáme si na lukách květin…
 
 </section>
 
 <section>
 
-_Proto jej tížil ten veliký smutek,  
+Proto jej tížil ten veliký smutek,  
 jejž vlastně nikdy nedal znát,  
 ale chodil městem, jako se nechodí po louce,  
 a smutný, jako když květy se lisují v knihách  
-a rostliny vkládají do vázy…_
+a rostliny vkládají do vázy…
 
 </section>

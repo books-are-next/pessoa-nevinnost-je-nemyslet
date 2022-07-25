@@ -8,56 +8,56 @@ contentType: poetry
 
 Válka, jež svými vojsky sužuje svět,
 
-_je dokonalý příklad omylu filozofie._
+je dokonalý příklad omylu filozofie.
 
 </section>
 
 <section>
 
-_Válka jako vše lidské chce měnit.  
+Válka jako vše lidské chce měnit.  
 Válka však chce především měnit, a měnit hodně  
-a měnit rychle._
+a měnit rychle.
 
 </section>
 
 <section>
 
-_Válka však působí smrt.  
+Válka však působí smrt.  
 A smrt je pohrdání vesmíru vůči nám.  
 Válka má za následek smrt, a tím dokazuje svou šalbu.  
-A tou šalbou dokazuje, že každá touha měnit je šalebná._
+A tou šalbou dokazuje, že každá touha měnit je šalebná.
 
 </section>
 
 <section>
 
-_Nechme vnější vesmír a druhé lidi tam, kam je postavila příroda.  
+Nechme vnější vesmír a druhé lidi tam, kam je postavila příroda.  
 Všechno je pýcha a nevědomost.  
 Všechno je touha vměšovat se, něco dělat, zanechat stopu.  
 Zastaví se srdce a velitel vojsk  
-se pomalu vrací k vnějšímu vesmíru._
+se pomalu vrací k vnějšímu vesmíru.
 
 </section>
 
 <section>
 
-_Přímá chemie přírody  
-neponechává místo myšlení._
+Přímá chemie přírody  
+neponechává místo myšlení.
 
 </section>
 
 <section>
 
-_Lidstvo je vzpoura otroků.  
+Lidstvo je vzpoura otroků.  
 Lidstvo je lidmi uchvácená vláda.  
-Existuje jako uchvatitel, je však na omylu, neboť uchvátit je nemít právo._
+Existuje jako uchvatitel, je však na omylu, neboť uchvátit je nemít právo.
 
 </section>
 
 <section>
 
-_Nechte existovat vnější svět a přirozené lidstvo!  
+Nechte existovat vnější svět a přirozené lidstvo!  
 Mír všemu předlidskému, ba i v lidech.  
-Mír zcela vnější esenci vesmíru!_
+Mír zcela vnější esenci vesmíru!
 
 </section>
