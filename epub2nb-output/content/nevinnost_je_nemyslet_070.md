@@ -1,9 +1,12 @@
 ---
-title: "Mluvíš o\_civilizaci a\_že by neměla být,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Mluvíš o civilizaci a že by neměla být,
 
 _nebo že by neměla být taková.  
 Říkáš, že všichni lidé anebo většina z nich trpí  

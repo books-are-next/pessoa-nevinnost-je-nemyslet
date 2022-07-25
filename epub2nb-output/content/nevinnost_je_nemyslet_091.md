@@ -1,9 +1,12 @@
 ---
-title: "Chtěl bych mít tolik času a\_klidu,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Chtěl bych mít tolik času a klidu,
 
 _abych vůbec na nic nemyslel,  
 abych ani necítil, že žiju,  

@@ -1,9 +1,12 @@
 ---
-title: Včera zase ten hlasatel svých pravd
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Včera zase ten hlasatel svých pravd
 
 _se mnou mluvil.  
 Mluvil o utrpení tříd, jež pracují  

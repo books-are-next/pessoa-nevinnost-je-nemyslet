@@ -1,9 +1,12 @@
 ---
-title: "Žij, pravíš, v\_přítomnosti;"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Žij, pravíš, v přítomnosti;
 
 _žij pouze v přítomnosti._
 

@@ -1,9 +1,12 @@
 ---
-title: Poslední hvězdo mizící před svítáním,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Poslední hvězdo mizící před svítáním,
 
 _na tvém chvějivě bílém modrání spočinu klidným zrakem  
 a vidím tě nezávisle na sobě,  

@@ -1,9 +1,12 @@
 ---
-title: Válka, jež svými vojsky sužuje svět,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Válka, jež svými vojsky sužuje svět,
 
 _je dokonalý příklad omylu filozofie._
 

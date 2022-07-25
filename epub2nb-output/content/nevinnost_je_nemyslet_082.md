@@ -1,9 +1,12 @@
 ---
-title: Zemřu-li mlád
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Zemřu-li mlád
 
 _a nestačím už vydat nějakou knihu,  
 takže neuvidím své verše vytištěné,  

@@ -1,9 +1,12 @@
 ---
-title: "Špinavé cizí dítě hrající si u\_mých dveří,"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Špinavé cizí dítě hrající si u mých dveří,
 
 _neptám se, neseš-li mi poselství symbolů.  
 Bavíš mě, protože jsem tě nikdy dřív neviděl,  

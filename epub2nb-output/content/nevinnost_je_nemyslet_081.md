@@ -1,9 +1,12 @@
 ---
-title: Až se znovu navrátí jaro,
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Až se znovu navrátí jaro,
 
 _možná už nebudu na světě.  
 Teď bych si rád myslel, že jaro je bytost,  

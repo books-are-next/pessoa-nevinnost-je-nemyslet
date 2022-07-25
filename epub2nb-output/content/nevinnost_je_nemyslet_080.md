@@ -1,9 +1,12 @@
 ---
-title: Úžasná realita věcí
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Úžasná realita věcí
 
 _je můj každodenní objev.  
 Každá věc je, co je,  

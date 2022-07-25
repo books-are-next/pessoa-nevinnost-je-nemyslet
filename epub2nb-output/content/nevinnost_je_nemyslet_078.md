@@ -1,9 +1,12 @@
 ---
-title: "Pastýři na kopci, tak daleko ode mě se svými ovcemi\_—"
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Pastýři na kopci, tak daleko ode mě se svými ovcemi —
 
 _čí je to štěstí, jež zdáš se mít — tvoje, nebo moje?  
 Ten mír, který cítím, když tě vidím, patří mně, nebo tobě?  

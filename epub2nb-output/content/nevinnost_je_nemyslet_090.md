@@ -1,9 +1,12 @@
 ---
-title: "Dnes mi kdosi četl svatého Františka z\_Assisi\\."
+title: ''
+hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Dnes mi kdosi četl svatého Františka z Assisi.
 
 _Četl mi a já žasl._
 

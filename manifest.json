@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pessoa-nevinnost-je-nemyslet-763803b",
-  "revision": "763803b",
+  "identifier": "pessoa-nevinnost-je-nemyslet-83a8ca5",
+  "revision": "83a8ca5",
   "readingOrder": [
     "promo.html",
     "nevinnost_je_nemyslet_005.html",
@@ -135,8 +135,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 12:09:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658750988119
+    "date": "Mon Jul 25 2022 12:36:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658752565439
   },
   "documents": [
     {
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "title": "Nestačí otevřít okno,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_069.html",
       "words": 69,
       "chars": 378,
@@ -1445,14 +1445,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nestačí otevřít okno,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mluvíš o civilizaci a že by neměla být,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_070.html",
       "words": 99,
       "chars": 516,
@@ -1465,14 +1465,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mluvíš o civilizaci a že by neměla být,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mezi tím, co vidím z jedné a z druhé strany krajiny,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_071.html",
       "words": 90,
       "chars": 471,
@@ -1485,14 +1485,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mezi tím, co vidím z jedné a z druhé strany krajiny,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Špinavé cizí dítě hrající si u mých dveří,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_072.html",
       "words": 119,
       "chars": 626,
@@ -1505,14 +1505,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Špinavé cizí dítě hrající si u mých dveří,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pravda, lež, jistota, nejistota…",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_073.html",
       "words": 92,
       "chars": 485,
@@ -1525,14 +1525,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pravda, lež, jistota, nejistota…",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hlasitý dívčí smích se ozývá odněkud z cesty.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_074.html",
       "words": 55,
       "chars": 306,
@@ -1545,14 +1545,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hlasitý dívčí smích se ozývá odněkud z cesty.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Svatojánská noc kdesi za zdí mého dvorku.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_075.html",
       "words": 44,
       "chars": 238,
@@ -1565,14 +1565,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Svatojánská noc kdesi za zdí mého dvorku.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Včera zase ten hlasatel svých pravd",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_076.html",
       "words": 163,
       "chars": 929,
@@ -1585,14 +1585,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Včera zase ten hlasatel svých pravd",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ty, mystiku, vidíš význam ve všech věcech.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_077.html",
       "words": 67,
       "chars": 360,
@@ -1605,14 +1605,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ty, mystiku, vidíš význam ve všech věcech.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_078.html",
       "words": 112,
       "chars": 521,
@@ -1625,14 +1625,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pastýři na kopci, tak daleko ode mě se svými ovcemi —",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Říkáš mi: ty jsi něco víc",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_079.html",
       "words": 215,
       "chars": 1121,
@@ -1645,14 +1645,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Říkáš mi: ty jsi něco víc",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Úžasná realita věcí",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_080.html",
       "words": 206,
       "chars": 1100,
@@ -1665,14 +1665,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Úžasná realita věcí",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Až se znovu navrátí jaro,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_081.html",
       "words": 70,
       "chars": 368,
@@ -1685,14 +1685,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až se znovu navrátí jaro,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zemřu-li mlád",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_082.html",
       "words": 221,
       "chars": 1222,
@@ -1705,14 +1705,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zemřu-li mlád",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Až přijde jaro",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_083.html",
       "words": 140,
       "chars": 723,
@@ -1725,14 +1725,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až přijde jaro",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jestliže až zemřu, budete chtít napsat můj životopis,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_084.html",
       "words": 111,
       "chars": 639,
@@ -1745,14 +1745,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jestliže až zemřu, budete chtít napsat můj životopis,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kdesi za zatáčkou cesty",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_085.html",
       "words": 117,
       "chars": 611,
@@ -1765,14 +1765,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdesi za zatáčkou cesty",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nevím, jak se západ slunce může zdát smutný.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_086.html",
       "words": 27,
       "chars": 140,
@@ -1785,14 +1785,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nevím, jak se západ slunce může zdát smutný.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Deštivý den je stejně krásný jako den plný slunce.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_087.html",
       "words": 15,
       "chars": 86,
@@ -1805,14 +1805,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Deštivý den je stejně krásný jako den plný slunce.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Až na mém hrobě vyroste tráva,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_088.html",
       "words": 38,
       "chars": 223,
@@ -1825,14 +1825,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až na mém hrobě vyroste tráva,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Je noc. A je velice temná. Ve vzdáleném domě",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_089.html",
       "words": 138,
       "chars": 735,
@@ -1845,14 +1845,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je noc. A je velice temná. Ve vzdáleném domě",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dnes mi kdosi četl svatého Františka z Assisi.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_090.html",
       "words": 114,
       "chars": 557,
@@ -1865,14 +1865,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dnes mi kdosi četl svatého Františka z Assisi.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Chtěl bych mít tolik času a klidu,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_091.html",
       "words": 27,
       "chars": 137,
@@ -1885,14 +1885,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Chtěl bych mít tolik času a klidu,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Snáší se noc, horko polevuje.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_092.html",
       "words": 50,
       "chars": 285,
@@ -1905,14 +1905,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Snáší se noc, horko polevuje.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jsem nemocný. Myšlenky se mi začínají plést.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_093.html",
       "words": 41,
       "chars": 248,
@@ -1925,14 +1925,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jsem nemocný. Myšlenky se mi začínají plést.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Přijmi vesmír,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_094.html",
       "words": 27,
       "chars": 129,
@@ -1945,14 +1945,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Přijmi vesmír,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Je-li v zimním období zima, beru to jako něco příjemného,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_095.html",
       "words": 137,
       "chars": 845,
@@ -1965,14 +1965,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je-li v zimním období zima, beru to jako něco příjemného,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ať už je středem světa cokoli,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_096.html",
       "words": 401,
       "chars": 2250,
@@ -1985,14 +1985,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ať už je středem světa cokoli,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Je mi to jedno.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_097.html",
       "words": 13,
       "chars": 53,
@@ -2005,14 +2005,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je mi to jedno.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Válka, jež svými vojsky sužuje svět,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_098.html",
       "words": 142,
       "chars": 849,
@@ -2025,14 +2025,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Válka, jež svými vojsky sužuje svět,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ze všemožných názorů o přírodě",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_099.html",
       "words": 61,
       "chars": 333,
@@ -2045,14 +2045,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ze všemožných názorů o přírodě",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lodi, jež odplouváš do dáli,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_100.html",
       "words": 43,
       "chars": 230,
@@ -2065,14 +2065,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lodi, jež odplouváš do dáli,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ponenáhlu šíří se krajina a zlátne.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_101.html",
       "words": 37,
       "chars": 203,
@@ -2085,14 +2085,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ponenáhlu šíří se krajina a zlátne.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poslední hvězdo mizící před svítáním,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_102.html",
       "words": 51,
       "chars": 287,
@@ -2105,14 +2105,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Poslední hvězdo mizící před svítáním,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kdosi slyšel mé verše a řekl: co je na tom nového?",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_103.html",
       "words": 65,
       "chars": 346,
@@ -2125,14 +2125,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdosi slyšel mé verše a řekl: co je na tom nového?",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ano: existuji uvnitř svého těla.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_104.html",
       "words": 51,
       "chars": 306,
@@ -2145,14 +2145,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ano: existuji uvnitř svého těla.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zeleň modrého nebe, dřív než vyjde slunce,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_105.html",
       "words": 38,
       "chars": 216,
@@ -2165,14 +2165,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zeleň modrého nebe, dřív než vyjde slunce,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jako dítě, dřív než je druzí naučí být velké,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_106.html",
       "words": 18,
       "chars": 92,
@@ -2185,14 +2185,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jako dítě, dřív než je druzí naučí být velké,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nevím, co je to znát se. Nevidím dovnitř.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_107.html",
       "words": 15,
       "chars": 83,
@@ -2205,14 +2205,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nevím, co je to znát se. Nevidím dovnitř.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vlastenec? Ne: jen Portugalec.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_108.html",
       "words": 23,
       "chars": 145,
@@ -2225,14 +2225,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlastenec? Ne: jen Portugalec.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Natáhnu se do trávy",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_109.html",
       "words": 57,
       "chars": 295,
@@ -2245,14 +2245,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Natáhnu se do trávy",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Promlouvali ke mně o lidech, o lidstvu,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_110.html",
       "words": 30,
       "chars": 171,
@@ -2265,14 +2265,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Promlouvali ke mně o lidech, o lidstvu,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nikdy jsem se nesnažil žít svůj život.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_111.html",
       "words": 34,
       "chars": 178,
@@ -2285,14 +2285,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nikdy jsem se nesnažil žít svůj život.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Žij, pravíš, v přítomnosti;",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_112.html",
       "words": 131,
       "chars": 701,
@@ -2305,14 +2305,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Žij, pravíš, v přítomnosti;",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Prý v každé věci dlí nějaká skrytá věc.",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_113.html",
       "words": 191,
       "chars": 998,
@@ -2325,14 +2325,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Prý v každé věci dlí nějaká skrytá věc.",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sníh položil na vše tichou pokrývku",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_114.html",
       "words": 35,
       "chars": 204,
@@ -2345,14 +2345,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sníh položil na vše tichou pokrývku",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dnes ráno jsem si vyšel časně,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_115.html",
       "words": 58,
       "chars": 285,
@@ -2365,14 +2365,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dnes ráno jsem si vyšel časně,",
+          "name": null,
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První předzvěst pozítřejší bouřky,",
+      "title": "Nevinnost je nemyslet",
       "file": "nevinnost_je_nemyslet_116.html",
       "words": 122,
       "chars": 672,
@@ -2385,7 +2385,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První předzvěst pozítřejší bouřky,",
+          "name": null,
           "id": null,
           "children": []
         }
