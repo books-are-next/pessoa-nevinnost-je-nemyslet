@@ -23,7 +23,7 @@ contentType: poetry
 
 > V nikom kolem sebe nenalézám takový postoj k životu, který by _věrně odpovídal_ mé nejvnitřnější senzibilitě, mým tužbám a ambicím, všemu tomu, co je v mém vnitřním duchovním bytí základní a podstatné. Jistěže se najdou lidé, kteří sdílejí mé názory, pokud jde o literární činnost, ta je však pouze na okraji mé upřímnosti. A to mi nestačí. Takže mé stále hlubší senzibilitě a mému stále silnějšímu vědomí strašlivého náboženského poslání, které každý nadaný člověk se svým nadáním od Boha dostává, se každá literární nicotnost, pouhé umění, jeví stále více jako prázdné a odpudivé. Pomalu, ale jistě si v božském niterném uskutečňování vývoje, jehož cíle jsou mi skryty, vytyčuji své záměry a své ambice stále úměrněji vlohám, jichž se mi dostalo. Působit na lidstvo, přispět veškerou silou svého snažení k civilizaci se mi stává důležitým a nelehkým životním cílem. Proto mi umělecká tvorba připadá jako něco stále významnějšího, poslání stále strašlivější – povinnost, jež má být plněna se vším úsilím a odříkáním, se zrakem upřeným k civilizační úloze veškeré umělecké tvorby. Proto také mé vlastní čistě estetické pojetí umění je teď vyšší a obtížnější; vyžaduji nyní od sebe mnohem více dokonalosti a pečlivého propracování. Dělat umění rychle, i když dobře, mi připadá málo. Onomu poslání, jež cítím, jsem povinován naprostou dokonalostí v realizaci, plnou vážností v napsaném.
 
-> Upustil jsem od nízké ctižádosti blýsknout se, jen abych se blýskl, i od ctižádosti ještě nižší a v uměleckém plebejství přímo nesnesitelné, totiž chtít _épater_[6](./resources/undefined). Záměr uvést intersekcionismus už ve mně nevzbuzuje žádný zápal nebo nadšení. Tuto věc nyní rozebírám a promýšlím sám pro sebe; pokud se ji však – původně zamýšlenou téměř jako _blague_[7](./resources/undefined) – rozhodnu uvést, bude to už něco jiného. „Skandální“ _Manifest_ neuveřejním. Ten druhý, s grafy, možná. _Blague_ mi může vyhovovat nebo mě lákat pouze dočasně, na chvíli, na krátké morbidní období, jako jakási (naštěstí netypická) nízkost. Bude možná užitečné – aspoň myslím – uvést tento směr jakožto směr, ne však s cílem pouze uměleckým, nýbrž s hlubším záměrem jakožto celou řadu myšlenek, jež je naléhavě třeba zveřejnit, aby mohly působit na národní psychiku, která musí být všemožně zpracovávána a pronikána novými směry myšlení a citů, jež by nás vytrhly z naší stagnace. Vlastenecká idea, v mých úmyslech vždy více či méně přítomná, teď ve mně totiž nabývá na důležitosti; a nezamýšlím umělecky tvořit, aniž v tom, co se mi podaří uskutečnit, vyzdvihnu jméno Portugalska. Je to důsledek vážného přístupu k umění a k životu. Jiný postoj k vlastnímu pojetí povinnosti ani od člověka, který na tajemně truchlivou podívanou světa nahlíží nábožensky, nelze očekávat.
+> Upustil jsem od nízké ctižádosti blýsknout se, jen abych se blýskl, i od ctižádosti ještě nižší a v uměleckém plebejství přímo nesnesitelné, totiž chtít _épater_[^6]. Záměr uvést intersekcionismus už ve mně nevzbuzuje žádný zápal nebo nadšení. Tuto věc nyní rozebírám a promýšlím sám pro sebe; pokud se ji však – původně zamýšlenou téměř jako _blague_[^7] – rozhodnu uvést, bude to už něco jiného. „Skandální“ _Manifest_ neuveřejním. Ten druhý, s grafy, možná. _Blague_ mi může vyhovovat nebo mě lákat pouze dočasně, na chvíli, na krátké morbidní období, jako jakási (naštěstí netypická) nízkost. Bude možná užitečné – aspoň myslím – uvést tento směr jakožto směr, ne však s cílem pouze uměleckým, nýbrž s hlubším záměrem jakožto celou řadu myšlenek, jež je naléhavě třeba zveřejnit, aby mohly působit na národní psychiku, která musí být všemožně zpracovávána a pronikána novými směry myšlení a citů, jež by nás vytrhly z naší stagnace. Vlastenecká idea, v mých úmyslech vždy více či méně přítomná, teď ve mně totiž nabývá na důležitosti; a nezamýšlím umělecky tvořit, aniž v tom, co se mi podaří uskutečnit, vyzdvihnu jméno Portugalska. Je to důsledek vážného přístupu k umění a k životu. Jiný postoj k vlastnímu pojetí povinnosti ani od člověka, který na tajemně truchlivou podívanou světa nahlíží nábožensky, nelze očekávat.
 
 > Zatím Vám to všechno vysvětluji velice špatně. Skoro mám chuť tenhle dopis roztrhat, protože si v něm vlastně ani zvlášť nedávám za pravdu. Vy však jistě chápete, co cítím, a věřím, že jako přítel se spolu se mnou z tohoto mého vnitřního růstu těšíte.
 
@@ -43,15 +43,9 @@ contentType: poetry
 
 > Pozdravujte ode mě svého otce a přijměte můj upřímný a bratrský pozdrav. Váš
 
-> _Fernando Pessoa[8](./resources/undefined)  
+> _Fernando Pessoa[^8]  
 > (…)_
 
 * * *
-
-_[6](./resources/undefined) Fr.: oslnit, ohromit. _Pozn. překl.__
-
-_[7](./resources/undefined) Fr.: vtip, žert. _Pozn. překl.__
-
-_[8](./resources/undefined) Fernando Pessoa: _Cartas a Armando Cortes-Rodrigues_, Livros Horizonte, Lisabon 1985, str. 43–48._
-
+[^6]: Fr.: oslnit, ohromit. _Pozn. překl._[^7] Fr.: vtip, žert. _Pozn. překl._[^8] Fernando Pessoa: _Cartas a Armando Cortes-Rodrigues_, Livros Horizonte, Lisabon 1985, str. 43–48.
 </section>
