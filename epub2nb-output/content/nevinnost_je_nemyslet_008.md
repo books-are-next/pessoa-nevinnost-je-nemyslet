@@ -9,7 +9,7 @@ contentType: poetry
 
 <div class="verse">
 
-_(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydání básní Alberta Caeira.)[4](./resources/undefined)_
+_(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydání básní Alberta Caeira.)[^4]_
 
 </div>
 
@@ -21,7 +21,7 @@ _(Z anglicky psané nedatované předmluvy k zamýšlenému anglickému vydán
 
 Na první pohled se zdá, že v těchto básních je něco z Whitmana. O Caeirových znalostech cizích jazyků, zvláště angličtiny, a Whitmanova díla nemám informace; všeobecně a po zběžném přečtení jeho básní však tuším, že v prvním případě byly tyto znalosti přinejlepším značně omezené a v druhém a třetím případě – žádné. Ať už je tomu jakkoli, po důkladném zkoumání tu Whitmanův vliv opravdu neodhalíme. Shledáme nanejvýš náhodnou shodu v určitém tónu, a proto spíše zdánlivou než skutečnou. Podstatný rozdíl je obrovský.
 
-Společným rysem obou básníků je láska k přírodě a k prostotě i překvapivá ostrost smyslového vnímání, pocitu.[5](./resources/undefined) Zatímco však Whitman vytrvale vnáší do přírody transcendentální významy, Caeirově přístupu nic není vzdálenějšího; ten je po pravdě řečeno naprosto opačný. A zatímco Whitmanovy smyslové vjemy jsou nesmírně různorodé a zahrnují oblast přirozenou i umělou, metafyzickou i fyzickou, Caeirovy vjemy ustavičně vylučují dokonce i věci „nejpřirozeněji umělé“ a jsou metafyzické pouze v krajně a osobitě negativním způsobu, který je jednou z novinek jeho přístupu.
+Společným rysem obou básníků je láska k přírodě a k prostotě i překvapivá ostrost smyslového vnímání, pocitu.[^5] Zatímco však Whitman vytrvale vnáší do přírody transcendentální významy, Caeirově přístupu nic není vzdálenějšího; ten je po pravdě řečeno naprosto opačný. A zatímco Whitmanovy smyslové vjemy jsou nesmírně různorodé a zahrnují oblast přirozenou i umělou, metafyzickou i fyzickou, Caeirovy vjemy ustavičně vylučují dokonce i věci „nejpřirozeněji umělé“ a jsou metafyzické pouze v krajně a osobitě negativním způsobu, který je jednou z novinek jeho přístupu.
 
 Caeiro má kromě toho dokonale definovanou a koherentní filozofii. Není patrně tak koherentní ve slově a větě, jak by se od filozofa dalo očekávat; on však není filozof, nýbrž básník. Taková filozofie možná není koherentní hned od začátku, ale postupně se stává zřetelnější a v závěrečných básních _Hlídače stád_ již má vyhraněnou a nezaměnitelnou podobu. Jde o absolutní, dokonale definovaný objektivismus – nejúplnější systém absolutního objektivismu, jaký jsme kdy u filozofa či u spisovatele zaznamenali. U Whitmana existuje filozofie, je to však filozofie básníka, nikoli myslitele; a proto jeho filozofie nepředstavuje originální postoj, jelikož originální je pouze cit. Naopak u Caeira je zcela nová myšlenka i cítění.
 
@@ -40,9 +40,5 @@ Jaký je tedy Caeirův význam, jaké poselství, obecně řečeno, nám přiná
 Náš první dojem z Caeira je ten, že všichni vědí, co nám říká, a proto říci to není zapotřebí. To je ovšem známá historie o Kolumbově vejci. Jestliže to všichni vědí, proč to nikdo neřekl? Nemá-li smysl to říkat, ale je to pravda, proč každý básník říká opak?
 
 * * *
-
-_[4](./resources/undefined) Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním **Thomasem Crossem**, rovněž předpokládaným autorem těchto textů. In: _Páginas Ínt__imas e de Auto-Interpretação_. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl._
-
-_[5](./resources/undefined) V originále _sensation_. _Pozn. překl.__
-
+[^4]: Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním **Thomasem Crossem**, rovněž předpokládaným autorem těchto textů. In: _Páginas Ínt__imas e de Auto-Interpretação_. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl.[^5] V originále _sensation_. _Pozn. překl._
 </section>

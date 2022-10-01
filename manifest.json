@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pessoa-nevinnost-je-nemyslet-bbc7921",
-  "revision": "bbc7921",
+  "identifier": "pessoa-nevinnost-je-nemyslet-fff4d2d",
+  "revision": "fff4d2d",
   "readingOrder": [
     "promo.html",
     "nevinnost_je_nemyslet_005.html",
@@ -135,8 +135,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 12:57:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658753837588
+    "date": "Sat Oct 01 2022 15:49:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639383268
   },
   "documents": [
     {
@@ -194,9 +194,9 @@
     {
       "title": "Předmluva Ricarda Reise",
       "file": "nevinnost_je_nemyslet_007.html",
-      "words": 693,
-      "chars": 4260,
-      "ideas": 14,
+      "words": 691,
+      "chars": 4273,
+      "ideas": 12,
       "role": "chapter",
       "order": 3,
       "prev": "nevinnost_je_nemyslet_006.html",
@@ -214,9 +214,9 @@
     {
       "title": "Úvod",
       "file": "nevinnost_je_nemyslet_008.html",
-      "words": 735,
-      "chars": 4868,
-      "ideas": 14,
+      "words": 734,
+      "chars": 4875,
+      "ideas": 13,
       "role": "chapter",
       "order": 4,
       "prev": "nevinnost_je_nemyslet_007.html",
@@ -2474,9 +2474,9 @@
     {
       "title": "Pessoův dopis Armandu Cortes-Rodriguesovi",
       "file": "nevinnost_je_nemyslet_121.html",
-      "words": 1543,
-      "chars": 9494,
-      "ideas": 25,
+      "words": 1541,
+      "chars": 9507,
+      "ideas": 23,
       "role": "chapter",
       "order": 117,
       "prev": "nevinnost_je_nemyslet_120.html",
@@ -2494,9 +2494,9 @@
     {
       "title": "Pessoův dopis Adolfu Casaisu Monteirovi",
       "file": "nevinnost_je_nemyslet_122.html",
-      "words": 3259,
-      "chars": 19790,
-      "ideas": 41,
+      "words": 3258,
+      "chars": 19797,
+      "ideas": 40,
       "role": "chapter",
       "order": 118,
       "prev": "nevinnost_je_nemyslet_121.html",
@@ -2574,14 +2574,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21107,
-      "chars": 121389,
-      "ideas": 2000
+      "words": 21101,
+      "chars": 121429,
+      "ideas": 1994
     },
     "chapters": {
-      "words": 20949,
-      "chars": 120358,
-      "ideas": 1977
+      "words": 20943,
+      "chars": 120398,
+      "ideas": 1971
     }
   }
 }
