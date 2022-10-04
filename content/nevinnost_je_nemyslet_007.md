@@ -29,5 +29,11 @@ _Celé toto dílo je na přání autora
 věnováno památce Cesária Verdeho[^3]_
 
 * * *
-[^1]: Z faksimile horoskopu je zřejmé, že Alberto Caeiro se měl narodit 16. dubna 1889. _Pozn. p__řekl._[^2] V originále sensações. _Pozn. překl._[^3] Cesário Verde (1855–1886), portugalský básník; posmrtně vyšla _Kniha Cesária Verdeho_. _Pozn. překl._
+
+[^1]: Z faksimile horoskopu je zřejmé, že Alberto Caeiro se měl narodit 16. dubna 1889. _Pozn. p__řekl._
+
+[^2]: V originále sensações. _Pozn. překl._
+
+[^3]: Cesário Verde (1855–1886), portugalský básník; posmrtně vyšla _Kniha Cesária Verdeho_. _Pozn. překl._
+
 </section>
