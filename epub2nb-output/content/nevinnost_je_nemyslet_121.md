@@ -47,5 +47,11 @@ contentType: poetry
 > (…)_
 
 * * *
-[^6]: Fr.: oslnit, ohromit. _Pozn. překl._[^7] Fr.: vtip, žert. _Pozn. překl._[^8] Fernando Pessoa: _Cartas a Armando Cortes-Rodrigues_, Livros Horizonte, Lisabon 1985, str. 43–48.
+
+[^6]: Fr.: oslnit, ohromit. _Pozn. překl._
+
+[^7]: Fr.: vtip, žert. _Pozn. překl._
+
+[^8]: Fernando Pessoa: _Cartas a Armando Cortes-Rodrigues_, Livros Horizonte, Lisabon 1985, str. 43–48.
+
 </section>

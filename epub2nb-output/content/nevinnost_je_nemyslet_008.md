@@ -40,5 +40,9 @@ Jaký je tedy Caeirův význam, jaké poselství, obecně řečeno, nám přiná
 Náš první dojem z Caeira je ten, že všichni vědí, co nám říká, a proto říci to není zapotřebí. To je ovšem známá historie o Kolumbově vejci. Jestliže to všichni vědí, proč to nikdo neřekl? Nemá-li smysl to říkat, ale je to pravda, proč každý básník říká opak?
 
 * * *
-[^4]: Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním **Thomasem Crossem**, rovněž předpokládaným autorem těchto textů. In: _Páginas Ínt__imas e de Auto-Interpretação_. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl.[^5] V originále _sensation_. _Pozn. překl._
+
+[^4]: Tento fragmentární „Úvod“ je jedním z několika kratších či delších anglicky psaných textů, které podle Pessoova záměru měly uvádět Caeirovu poezii přeloženou heteronymním **Thomasem Crossem**, rovněž předpokládaným autorem těchto textů. In: _Páginas Ínt__imas e de Auto-Interpretação_. Edições Ática, Lisabon 1966, str. 368–375. Pozn. překl.
+
+[^5]: V originále _sensation_. _Pozn. překl._
+
 </section>

@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pessoa-nevinnost-je-nemyslet-fff4d2d",
-  "revision": "fff4d2d",
+  "identifier": "pessoa-nevinnost-je-nemyslet-64699a0",
+  "revision": "64699a0",
   "readingOrder": [
     "promo.html",
     "nevinnost_je_nemyslet_005.html",
@@ -135,8 +135,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:49:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639383268
+    "date": "Tue Oct 04 2022 16:40:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901638770
   },
   "documents": [
     {
@@ -194,9 +194,9 @@
     {
       "title": "Předmluva Ricarda Reise",
       "file": "nevinnost_je_nemyslet_007.html",
-      "words": 691,
-      "chars": 4273,
-      "ideas": 12,
+      "words": 693,
+      "chars": 4263,
+      "ideas": 14,
       "role": "chapter",
       "order": 3,
       "prev": "nevinnost_je_nemyslet_006.html",
@@ -214,9 +214,9 @@
     {
       "title": "Úvod",
       "file": "nevinnost_je_nemyslet_008.html",
-      "words": 734,
-      "chars": 4875,
-      "ideas": 13,
+      "words": 735,
+      "chars": 4870,
+      "ideas": 14,
       "role": "chapter",
       "order": 4,
       "prev": "nevinnost_je_nemyslet_007.html",
@@ -2474,9 +2474,9 @@
     {
       "title": "Pessoův dopis Armandu Cortes-Rodriguesovi",
       "file": "nevinnost_je_nemyslet_121.html",
-      "words": 1541,
-      "chars": 9507,
-      "ideas": 23,
+      "words": 1543,
+      "chars": 9497,
+      "ideas": 25,
       "role": "chapter",
       "order": 117,
       "prev": "nevinnost_je_nemyslet_120.html",
@@ -2494,9 +2494,9 @@
     {
       "title": "Pessoův dopis Adolfu Casaisu Monteirovi",
       "file": "nevinnost_je_nemyslet_122.html",
-      "words": 3258,
-      "chars": 19797,
-      "ideas": 40,
+      "words": 3259,
+      "chars": 19790,
+      "ideas": 41,
       "role": "chapter",
       "order": 118,
       "prev": "nevinnost_je_nemyslet_121.html",
@@ -2554,9 +2554,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 151,
+      "words": 148,
       "chars": 986,
-      "ideas": 19,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "nevinnost_je_nemyslet_124.html",
@@ -2574,14 +2574,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21101,
-      "chars": 121429,
-      "ideas": 1994
+      "words": 21104,
+      "chars": 121397,
+      "ideas": 1997
     },
     "chapters": {
-      "words": 20943,
-      "chars": 120398,
-      "ideas": 1971
+      "words": 20949,
+      "chars": 120366,
+      "ideas": 1977
     }
   }
 }

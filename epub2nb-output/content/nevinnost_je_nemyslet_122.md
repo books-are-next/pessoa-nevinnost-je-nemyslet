@@ -81,5 +81,9 @@ contentType: poetry
 > Další věc. Může se stát, že pro nějakou svou studii nebo obdobný účel budete později muset citovat z tohoto dopisu nějakou pasáž. Dávám Vám k tomu předem svůj souhlas, ale _s je__dnou výhradou_, a dovolte, abych to zdůraznil. Odstavec o okultismu, na straně 7 mého dopisu, nelze reprodukovat tiskem. Ve snaze odpovědět na Vaši otázku co nejjasněji jsem úmyslně poněkud překročil meze, jež jsou v této záležitosti pochopitelné. Jde o soukromý dopis, a proto jsem neváhal tak učinit. Nic nebrání tomu, abyste zmíněný odstavec přečetl, komu Vám bude libo, pokud ovšem ta osoba bude rovněž srozuměna s tím, že obsah uvedeného odstavce nebude reprodukovat tiskem. Věřím, že se na Vás v tomto ohledu mohu spolehnout. (…)[^9] _F. Pessoa_[^10]
 
 * * *
-[^9]: Zmíněnou část dopisu od slov „Zbývá odpovědět…“ až po „… se citovat (s označením řádu) nemají“, která za Pessoova života otištěna nebyla, poprvé uveřejnil se svolením Adolfa Casaise Monteira João Gaspar Simões ve své knize _Vida e Obra de Fernando Pessoa_ (b. d. 1950). _Pozn. překl._[^10] Fernando Pessoa: _Correspondência_ (1923–1935), Assírio & Alvim, Lisa­bon 1999, str. 337–348.
+
+[^9]: Zmíněnou část dopisu od slov „Zbývá odpovědět…“ až po „… se citovat (s označením řádu) nemají“, která za Pessoova života otištěna nebyla, poprvé uveřejnil se svolením Adolfa Casaise Monteira João Gaspar Simões ve své knize _Vida e Obra de Fernando Pessoa_ (b. d. 1950). _Pozn. překl._
+
+[^10]: Fernando Pessoa: _Correspondência_ (1923–1935), Assírio & Alvim, Lisa­bon 1999, str. 337–348.
+
 </section>
